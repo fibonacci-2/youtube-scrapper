@@ -4,22 +4,28 @@ Arabic YouTube Channel Comment Scraper
 =======================================
 Input:  a text file with one YouTube channel URL per line
 Output: <output_dir>/<channel_id>/comments_<channel_id>_<video_id>.jsonl
-        One JSON object per line, one file per video.
 
-Resume-safe: progress tracked in <output_dir>/progress.jsonl
-             Already-completed videos are skipped on re-run.
-             Partial files (from interrupted runs) are discarded and retried.
+HOW PROXYING WORKS IN THIS SCRIPT
+-----------------------------------
+yt-dlp (channel enumeration):
+  Always runs WITHOUT proxy — goes direct from your machine's IP.
+  Your home IP is not blocked by YouTube, so this works fine.
+  Webshare Proxy Server tier blocks CONNECT tunneling to youtube.com anyway.
 
-IP bypass options (same interface as fetch_transcripts.py):
-  --webshare-user / --webshare-pass   Webshare rotating residential proxy
-  --proxy URL                         Generic HTTP/SOCKS proxy
-  --cookies FILE                      Netscape cookies.txt for yt-dlp enumeration
+youtube-comment-downloader (comment fetching):
+  Uses Webshare proxy for its HTTP-level requests.
+  This keeps your home IP from being rate-limited by YouTube on heavy scraping.
 
 Usage:
+    python fetch_comments.py channels.txt \\
+        --webshare-user USER --webshare-pass PASS
+
+    # If you have SSL inspection on your network (university/corporate):
+    python fetch_comments.py channels.txt \\
+        --webshare-user USER --webshare-pass PASS --no-verify-ssl
+
+    # No proxy (home IP, light scraping):
     python fetch_comments.py channels.txt
-    python fetch_comments.py channels.txt --webshare-user U --webshare-pass P
-    python fetch_comments.py channels.txt --proxy http://user:pass@host:port
-    python fetch_comments.py channels.txt --max-comments 2000 --workers 3
 """
 
 import argparse
@@ -30,6 +36,7 @@ import re
 import subprocess
 import sys
 import time
+import warnings
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
@@ -53,34 +60,40 @@ def check_deps():
     except FileNotFoundError:
         missing.append("yt-dlp")
     if missing:
-        print(f"[ERROR] Missing dependencies: {', '.join(missing)}")
+        print(f"[ERROR] Missing: {', '.join(missing)}")
         print(f"  pip install {' '.join(missing)} --break-system-packages")
         sys.exit(1)
 
 check_deps()
 
 import requests
+import urllib3
 from youtube_comment_downloader import YoutubeCommentDownloader, SORT_BY_POPULAR, SORT_BY_RECENT
 
 # ---------------------------------------------------------------------------
-# Proxy-aware downloader factory
+# Proxy helpers
 # ---------------------------------------------------------------------------
+
+def _webshare_url(user: str, passwd: str) -> str:
+    return f"http://{user}:{passwd}@p.webshare.io:80"
+
 
 def build_downloader(args) -> YoutubeCommentDownloader:
     """
-    YoutubeCommentDownloader uses an internal requests.Session.
-    We inject the proxy by patching that session after construction.
+    Build comment downloader.
+    Proxy is used here (HTTP-level, not CONNECT tunneling).
+    yt-dlp is handled separately and always goes direct.
     """
     d = YoutubeCommentDownloader()
 
-    proxy_url = None
+    if args.no_verify_ssl:
+        d.session.verify = False
+        warnings.filterwarnings("ignore", message="Unverified HTTPS request")
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+    proxy_url = None
     if args.webshare_user and args.webshare_pass:
-        # Webshare rotating residential endpoint
-        proxy_url = (
-            f"http://{args.webshare_user}:{args.webshare_pass}"
-            f"@p.webshare.io:80"
-        )
+        proxy_url = _webshare_url(args.webshare_user, args.webshare_pass)
     elif args.proxy:
         proxy_url = args.proxy
 
@@ -94,9 +107,22 @@ def build_downloader(args) -> YoutubeCommentDownloader:
             jar.load(ignore_discard=True, ignore_expires=True)
             d.session.cookies.update(jar)
         except Exception as e:
-            print(f"[WARN] Could not load cookies into comment downloader: {e}")
+            print(f"[WARN] Could not load cookies: {e}")
 
     return d
+
+
+def ytdlp_base_cmd(args) -> list[str]:
+    """
+    yt-dlp always goes DIRECT — no proxy.
+    Webshare Proxy Server tier blocks CONNECT to youtube.com.
+    Your home IP is not YouTube-blocked, so direct works fine.
+    """
+    cmd = ["yt-dlp"]
+    # Never pass proxy to yt-dlp — see module docstring
+    if args.cookies:
+        cmd += ["--cookies", args.cookies]
+    return cmd
 
 # ---------------------------------------------------------------------------
 # Logging
@@ -125,11 +151,7 @@ def setup_logging(output_dir: Path) -> logging.Logger:
 # ---------------------------------------------------------------------------
 
 PROGRESS_STATUSES = {
-    "success",
-    "no_comments",    # video exists but comments are disabled or empty
-    "unavailable",    # video private / deleted
-    "ip_blocked",     # HTTP 429 / proxy error — retriable
-    "error",          # unexpected error
+    "success", "no_comments", "unavailable", "ip_blocked", "error",
 }
 
 class ProgressTracker:
@@ -157,7 +179,6 @@ class ProgressTracker:
         rec = self._done.get(video_id)
         if rec is None:
             return False
-        # ip_blocked is retriable — never skip it
         return rec["status"] != "ip_blocked"
 
     def mark(self, channel_id: str, video_id: str, status: str,
@@ -186,7 +207,7 @@ class ProgressTracker:
         return sum(r.get("comment_count", 0) for r in self._done.values())
 
 # ---------------------------------------------------------------------------
-# Channel → video ID enumeration via yt-dlp (shared with transcript scraper)
+# Channel → video ID enumeration (always direct, no proxy)
 # ---------------------------------------------------------------------------
 
 YTDLP_LIST_FLAGS = [
@@ -196,14 +217,6 @@ YTDLP_LIST_FLAGS = [
     "--ignore-errors",
     "--extractor-args", "youtube:skip=authcheck",
 ]
-
-def ytdlp_base_cmd(args) -> list[str]:
-    cmd = ["yt-dlp"]
-    if args.cookies:
-        cmd += ["--cookies", args.cookies]
-    if args.proxy:
-        cmd += ["--proxy", args.proxy]
-    return cmd
 
 
 def resolve_channel_id(channel_url: str, args, logger: logging.Logger) -> str | None:
@@ -231,12 +244,18 @@ def resolve_channel_id(channel_url: str, args, logger: logging.Logger) -> str | 
 
 
 def list_channel_videos(channel_url: str, args, logger: logging.Logger) -> list[str]:
-    logger.info(f"Enumerating videos: {channel_url}")
-    cmd = ytdlp_base_cmd(args) + YTDLP_LIST_FLAGS + [channel_url]
+    base_url = re.sub(
+        r"/(featured|shorts|streams|community|about|videos)/?$",
+        "", channel_url.rstrip("/")
+    )
+    videos_url = base_url + "/videos"
+    logger.info(f"Enumerating (direct): {videos_url}")
+
+    cmd = ytdlp_base_cmd(args) + YTDLP_LIST_FLAGS + [videos_url]
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     except subprocess.TimeoutExpired:
-        logger.error(f"yt-dlp timed out enumerating {channel_url}")
+        logger.error(f"yt-dlp timed out for {channel_url}")
         return []
 
     video_ids, seen = [], set()
@@ -248,17 +267,16 @@ def list_channel_videos(channel_url: str, args, logger: logging.Logger) -> list[
             seen.add(vid)
             video_ids.append(vid)
 
-    if result.returncode != 0 and not video_ids:
-        logger.error(
-            f"yt-dlp exited {result.returncode} for {channel_url}:\n"
-            f"{result.stderr[:500]}"
-        )
+    if not video_ids:
+        stderr_snip = result.stderr[:400].strip()
+        if stderr_snip:
+            logger.warning(f"  yt-dlp stderr: {stderr_snip}")
 
-    logger.info(f"  Found {len(video_ids)} unique video IDs")
+    logger.info(f"  Found {len(video_ids)} video IDs")
     return video_ids
 
 # ---------------------------------------------------------------------------
-# IP block detection helpers
+# IP block detection
 # ---------------------------------------------------------------------------
 
 _IP_BLOCK_SIGNALS = (
@@ -286,8 +304,6 @@ def fetch_and_save_comments(
     rate_delay: float,
     sort_by: int,
 ) -> str:
-    """Fetch all comments for one video, stream-write to JSONL, update tracker."""
-
     if tracker.is_done(video_id):
         return "skipped"
 
@@ -296,17 +312,19 @@ def fetch_and_save_comments(
     video_url = f"https://www.youtube.com/watch?v={video_id}"
     out_path = out_dir / f"comments_{channel_id}_{video_id}.jsonl"
 
-    # Remove any partial file from a previous interrupted run
     if out_path.exists():
         out_path.unlink()
 
     count = 0
     try:
         gen = downloader.get_comments_from_url(video_url, sort_by=sort_by)
+        if gen is None:
+            tracker.mark(channel_id, video_id, "no_comments", "generator=None")
+            logger.debug(f"  [{channel_id}] {video_id}: comments disabled")
+            return "no_comments"
 
         with open(out_path, "w", encoding="utf-8") as f:
             for comment in gen:
-                # Annotate with provenance
                 comment["video_id"] = video_id
                 comment["channel_id"] = channel_id
                 f.write(json.dumps(comment, ensure_ascii=False) + "\n")
@@ -315,21 +333,16 @@ def fetch_and_save_comments(
                     break
 
     except Exception as e:
-        # Clean up the partial file
         if out_path.exists():
             out_path.unlink()
 
         if _is_ip_block(e):
             tracker.mark(channel_id, video_id, "ip_blocked", str(e))
-            logger.error(
-                f"  [{channel_id}] {video_id}: IP BLOCKED — "
-                f"add --webshare-user/pass or --proxy"
-            )
+            logger.error(f"  [{channel_id}] {video_id}: blocked — {str(e)[:100]}")
             return "ip_blocked"
 
         err_str = str(e)
-        # youtube-comment-downloader returns None generator for disabled comments
-        if "failed to set sorting" in err_str.lower() or count == 0:
+        if "failed to set sorting" in err_str.lower():
             tracker.mark(channel_id, video_id, "no_comments", err_str)
             logger.debug(f"  [{channel_id}] {video_id}: no comments / disabled")
             return "no_comments"
@@ -339,7 +352,6 @@ def fetch_and_save_comments(
         return "error"
 
     if count == 0:
-        # Generator returned nothing (comments disabled / empty)
         if out_path.exists():
             out_path.unlink()
         tracker.mark(channel_id, video_id, "no_comments", "", 0)
@@ -347,7 +359,7 @@ def fetch_and_save_comments(
         return "no_comments"
 
     tracker.mark(channel_id, video_id, "success", "", count)
-    logger.info(f"  [{channel_id}] {video_id}: ✓  {count} comments")
+    logger.info(f"  [{channel_id}] {video_id}: ✓  {count:,} comments")
     return "success"
 
 # ---------------------------------------------------------------------------
@@ -360,30 +372,24 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
-    parser.add_argument("channels_file",
-                        help="Text file — one YouTube channel URL per line")
-    parser.add_argument("--output-dir", default="comments",
-                        help="Root output directory (default: comments/)")
+    parser.add_argument("channels_file")
+    parser.add_argument("--output-dir", default="comments")
     parser.add_argument("--max-comments", type=int, default=0,
-                        help="Max comments per video (default: 0 = unlimited)")
-    parser.add_argument("--sort", choices=["popular", "recent"], default="recent",
-                        help="Comment sort order (default: recent)")
-    parser.add_argument("--workers", type=int, default=2,
-                        help="Parallel workers (default: 2 — be conservative)")
-    parser.add_argument("--delay", type=float, default=1.5,
-                        help="Sleep seconds between requests per worker (default: 1.5)")
+                        help="Max comments per video (0 = unlimited)")
+    parser.add_argument("--sort", choices=["popular", "recent"], default="recent")
+    parser.add_argument("--workers", type=int, default=2)
+    parser.add_argument("--delay", type=float, default=1.5)
 
-    bypass = parser.add_argument_group(
-        "IP bypass (use one when running on a cloud server)"
-    )
+    bypass = parser.add_argument_group("Proxy / SSL (for comment fetching only)")
     bypass.add_argument("--webshare-user", metavar="USER",
-                        help="Webshare rotating residential proxy username")
-    bypass.add_argument("--webshare-pass", metavar="PASS",
-                        help="Webshare rotating residential proxy password")
+                        help="Webshare proxy username (used for comments, NOT yt-dlp)")
+    bypass.add_argument("--webshare-pass", metavar="PASS")
     bypass.add_argument("--proxy", metavar="URL",
-                        help="Generic proxy, e.g. http://user:pass@host:port")
+                        help="Generic proxy URL (used for comments, NOT yt-dlp)")
     bypass.add_argument("--cookies", metavar="FILE",
-                        help="Netscape cookies.txt (used by yt-dlp for enumeration)")
+                        help="Netscape cookies.txt passed to yt-dlp")
+    bypass.add_argument("--no-verify-ssl", action="store_true",
+                        help="Disable SSL cert verification in comment downloader")
 
     args = parser.parse_args()
 
@@ -397,23 +403,36 @@ def main():
 
     logger = setup_logging(output_dir)
     tracker = ProgressTracker(output_dir / "progress.jsonl")
-
     sort_by = SORT_BY_POPULAR if args.sort == "popular" else SORT_BY_RECENT
 
-    # Build a single downloader (one session, one proxy config)
-    downloader = build_downloader(args)
+    # --- Announce config ---
+    logger.info("yt-dlp enumeration : DIRECT (no proxy)")
 
-    if args.webshare_user:
-        logger.info("Proxy: Webshare rotating residential (p.webshare.io:80)")
+    proxy_url = None
+    if args.webshare_user and args.webshare_pass:
+        proxy_url = _webshare_url(args.webshare_user, args.webshare_pass)
+        # Quick reachability check
+        try:
+            r = requests.get(
+                "http://httpbin.org/ip",
+                proxies={"http": proxy_url, "https": proxy_url},
+                verify=not args.no_verify_ssl,
+                timeout=8,
+            )
+            exit_ip = r.json().get("origin", "?")
+            logger.info(f"Comment proxy     : Webshare OK — exit IP {exit_ip}")
+        except Exception as e:
+            logger.warning(f"Comment proxy     : Webshare probe failed — {e}")
     elif args.proxy:
-        logger.info(f"Proxy: {args.proxy}")
-    elif args.cookies:
-        logger.info(f"Auth: cookies from {args.cookies} (yt-dlp only)")
+        proxy_url = args.proxy
+        logger.info(f"Comment proxy     : {proxy_url}")
     else:
-        logger.warning(
-            "No proxy configured — will likely be blocked on cloud IPs. "
-            "Add --webshare-user/pass or --proxy to fix."
-        )
+        logger.info("Comment proxy     : DIRECT (no proxy)")
+
+    if args.no_verify_ssl:
+        logger.warning("SSL verification  : DISABLED")
+
+    downloader = build_downloader(args)
 
     raw_lines = channels_path.read_text(encoding="utf-8").splitlines()
     channel_urls = [
@@ -426,28 +445,24 @@ def main():
     for channel_url in channel_urls:
         channel_id = resolve_channel_id(channel_url, args, logger)
         if not channel_id:
-            logger.error(f"Could not resolve channel_id for {channel_url} — skipping")
+            logger.error(f"Could not resolve channel_id for {channel_url}")
             continue
 
         logger.info(f"=== Channel: {channel_id} ===")
 
         video_ids = list_channel_videos(channel_url, args, logger)
         if not video_ids:
-            logger.warning(f"No videos found for {channel_url}")
+            logger.warning("No videos found — check errors above")
             continue
 
         new_ids = [v for v in video_ids if not tracker.is_done(v)]
-        skip_count = len(video_ids) - len(new_ids)
-        logger.info(f"  {len(new_ids)} to fetch, {skip_count} already done")
+        logger.info(f"  {len(new_ids)} to fetch, {len(video_ids)-len(new_ids)} done")
 
         ch_dir = output_dir / channel_id
         ch_dir.mkdir(exist_ok=True)
 
         ch_success = ch_ip_blocked = 0
 
-        # NOTE: workers=2 by default — comment fetching is much heavier per
-        # request than transcript fetching (many paginated XHR calls per video).
-        # More workers = faster bans. Tune carefully.
         with ThreadPoolExecutor(max_workers=args.workers) as pool:
             futures = {
                 pool.submit(
@@ -477,10 +492,7 @@ def main():
         )
 
         if ch_ip_blocked == len(new_ids) > 0:
-            logger.error(
-                "All requests IP-blocked. Stopping early. "
-                "Re-run with --webshare-user/pass or --proxy."
-            )
+            logger.error("All comment requests blocked — stopping early.")
             break
 
     counts = tracker.counts
@@ -493,12 +505,11 @@ def main():
     logger.info(f"  total comments : {tracker.total_comments:,}")
     if ip_blocked_total:
         logger.warning(
-            f"\n  {ip_blocked_total} videos were IP-blocked. Re-run with:\n"
-            "    --webshare-user USER --webshare-pass PASS\n"
-            "  (ip_blocked entries will be retried automatically)"
+            f"  {ip_blocked_total} IP-blocked — upgrade Webshare to "
+            "'Rotating Residential' for comment fetching"
         )
-    logger.info(f"  Progress log : {output_dir / 'progress.jsonl'}")
-    logger.info(f"  Error log    : {output_dir / 'errors.log'}")
+    logger.info(f"  Progress : {output_dir / 'progress.jsonl'}")
+    logger.info(f"  Errors   : {output_dir / 'errors.log'}")
 
 
 if __name__ == "__main__":

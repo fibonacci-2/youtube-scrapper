@@ -1,0 +1,1075 @@
+2026-06-21 11:59:05,247 [INFO] Proxy: Webshare rotating residential (p.webshare.io:80)
+2026-06-21 11:59:05,247 [INFO] Loaded 1 channel URL(s)
+2026-06-21 11:59:05,248 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 11:59:05,248 [INFO] Enumerating videos: https://www.youtube.com/@NewMedia_Life
+2026-06-21 11:59:20,194 [INFO]   Found 0 unique video IDs
+2026-06-21 11:59:20,194 [WARNING] No videos found for https://www.youtube.com/@NewMedia_Life
+2026-06-21 11:59:20,195 [INFO] ============================================================
+2026-06-21 11:59:20,195 [INFO] DONE
+2026-06-21 11:59:20,195 [INFO]   total comments : 0
+2026-06-21 11:59:20,195 [INFO]   Progress log : comments/progress.jsonl
+2026-06-21 11:59:20,195 [INFO]   Error log    : comments/errors.log
+2026-06-21 12:00:30,856 [INFO] Proxy: Webshare rotating residential (p.webshare.io:80)
+2026-06-21 12:00:30,856 [INFO] Loaded 7 channel URL(s)
+2026-06-21 12:00:30,857 [INFO] === Channel: HekayatWaZekrayat ===
+2026-06-21 12:00:30,857 [INFO] Enumerating videos: https://www.youtube.com/@HekayatWaZekrayat/featured
+2026-06-21 12:00:32,221 [INFO]   Found 0 unique video IDs
+2026-06-21 12:00:32,221 [WARNING] No videos found for https://www.youtube.com/@HekayatWaZekrayat/featured
+2026-06-21 12:00:32,221 [INFO] === Channel: DramaBoxComedy-jg1mu ===
+2026-06-21 12:00:32,221 [INFO] Enumerating videos: https://www.youtube.com/@DramaBoxComedy-jg1mu
+2026-06-21 12:00:47,205 [INFO]   Found 0 unique video IDs
+2026-06-21 12:00:47,205 [WARNING] No videos found for https://www.youtube.com/@DramaBoxComedy-jg1mu
+2026-06-21 12:00:47,205 [INFO] === Channel: msproduction4049 ===
+2026-06-21 12:00:47,205 [INFO] Enumerating videos: https://www.youtube.com/@msproduction4049
+2026-06-21 12:01:25,113 [INFO]   Found 0 unique video IDs
+2026-06-21 12:01:25,113 [WARNING] No videos found for https://www.youtube.com/@msproduction4049
+2026-06-21 12:01:25,113 [INFO] === Channel: DramaBoxEG ===
+2026-06-21 12:01:25,113 [INFO] Enumerating videos: https://www.youtube.com/@DramaBoxEG
+2026-06-21 12:01:34,995 [INFO]   Found 0 unique video IDs
+2026-06-21 12:01:34,995 [WARNING] No videos found for https://www.youtube.com/@DramaBoxEG
+2026-06-21 12:01:34,995 [INFO] === Channel: MasrahMaasr ===
+2026-06-21 12:01:34,996 [INFO] Enumerating videos: https://www.youtube.com/@MasrahMaasr
+2026-06-21 12:01:43,199 [INFO]   Found 0 unique video IDs
+2026-06-21 12:01:43,199 [WARNING] No videos found for https://www.youtube.com/@MasrahMaasr
+2026-06-21 12:01:43,199 [INFO] === Channel: HawadetCima ===
+2026-06-21 12:01:43,199 [INFO] Enumerating videos: https://www.youtube.com/@HawadetCima
+2026-06-21 12:02:17,741 [INFO]   Found 0 unique video IDs
+2026-06-21 12:02:17,741 [WARNING] No videos found for https://www.youtube.com/@HawadetCima
+2026-06-21 12:02:17,741 [INFO] === Channel: UCqq5n-Oe-r1EEHI3yvhVJcA ===
+2026-06-21 12:02:17,741 [INFO] Enumerating videos: https://www.youtube.com/channel/UCqq5n-Oe-r1EEHI3yvhVJcA
+2026-06-21 12:02:24,228 [INFO]   Found 0 unique video IDs
+2026-06-21 12:02:24,228 [WARNING] No videos found for https://www.youtube.com/channel/UCqq5n-Oe-r1EEHI3yvhVJcA
+2026-06-21 12:02:24,228 [INFO] ============================================================
+2026-06-21 12:02:24,228 [INFO] DONE
+2026-06-21 12:02:24,228 [INFO]   total comments : 0
+2026-06-21 12:02:24,228 [INFO]   Progress log : comments/progress.jsonl
+2026-06-21 12:02:24,228 [INFO]   Error log    : comments/errors.log
+2026-06-21 12:16:14,682 [INFO] Proxy: Webshare rotating residential (p.webshare.io:80)
+2026-06-21 12:16:14,682 [INFO] Loaded 1 channel URL(s)
+2026-06-21 12:16:14,683 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 12:16:14,683 [INFO] Enumerating videos: https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:16:21,455 [INFO]   Found 0 unique video IDs
+2026-06-21 12:16:21,455 [WARNING] No videos found for https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:16:21,455 [INFO] ============================================================
+2026-06-21 12:16:21,455 [INFO] DONE
+2026-06-21 12:16:21,455 [INFO]   total comments : 0
+2026-06-21 12:16:21,455 [INFO]   Progress log : comments/progress.jsonl
+2026-06-21 12:16:21,455 [INFO]   Error log    : comments/errors.log
+2026-06-21 12:23:34,829 [INFO] Webshare proxy OK — exit IP: 31.175.146.43
+2026-06-21 12:23:34,834 [INFO] Loaded 1 channel URL(s)
+2026-06-21 12:23:34,834 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 12:23:34,835 [INFO] Enumerating: https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:23:34,835 [DEBUG]   cmd: yt-dlp --proxy http://ebmjkolu:5wwh9sqr6859@p.webshare.io:80 --flat-playlist --print %(id)s ... https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:24:07,866 [INFO]   Found 0 video IDs
+2026-06-21 12:24:07,867 [WARNING] No videos found — check SSL errors above
+2026-06-21 12:24:07,867 [INFO] ============================================================
+2026-06-21 12:24:07,867 [INFO] DONE
+2026-06-21 12:24:07,867 [INFO]   total comments : 0
+2026-06-21 12:24:07,867 [INFO]   Progress : comments/progress.jsonl
+2026-06-21 12:24:07,867 [INFO]   Errors   : comments/errors.log
+2026-06-21 12:28:33,972 [INFO] Probing proxy: p.webshare.io:80
+2026-06-21 12:28:36,014 [INFO]   Proxy OK — exit IP: 152.172.192.156
+2026-06-21 12:28:36,016 [INFO] Loaded 1 channel URL(s)
+2026-06-21 12:28:36,018 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 12:28:36,018 [INFO] Enumerating: https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:28:52,486 [INFO]   Found 0 video IDs
+2026-06-21 12:28:52,486 [WARNING] No videos found — check errors above
+2026-06-21 12:28:52,486 [INFO] ============================================================
+2026-06-21 12:28:52,486 [INFO] DONE
+2026-06-21 12:28:52,486 [INFO]   total comments : 0
+2026-06-21 12:28:52,486 [INFO]   Progress : comments/progress.jsonl
+2026-06-21 12:28:52,486 [INFO]   Errors   : comments/errors.log
+2026-06-21 12:29:17,241 [INFO] Probing proxy: p.webshare.io:80
+2026-06-21 12:29:20,113 [INFO]   Proxy OK — exit IP: 189.121.200.142
+2026-06-21 12:29:20,114 [INFO] Loaded 1 channel URL(s)
+2026-06-21 12:29:20,115 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 12:29:20,115 [INFO] Enumerating: https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:29:40,910 [INFO]   Found 0 video IDs
+2026-06-21 12:29:40,910 [WARNING] No videos found — check errors above
+2026-06-21 12:29:40,910 [INFO] ============================================================
+2026-06-21 12:29:40,910 [INFO] DONE
+2026-06-21 12:29:40,910 [INFO]   total comments : 0
+2026-06-21 12:29:40,911 [INFO]   Progress : comments/progress.jsonl
+2026-06-21 12:29:40,911 [INFO]   Errors   : comments/errors.log
+2026-06-21 12:31:31,695 [INFO] yt-dlp enumeration : DIRECT (no proxy)
+2026-06-21 12:31:32,978 [INFO] Comment proxy     : Webshare OK — exit IP 45.6.178.60
+2026-06-21 12:31:32,978 [INFO] Loaded 1 channel URL(s)
+2026-06-21 12:31:32,979 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 12:31:32,979 [INFO] Enumerating (direct): https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:31:39,885 [INFO]   Found 0 video IDs
+2026-06-21 12:31:39,885 [WARNING] No videos found — check errors above
+2026-06-21 12:31:39,885 [INFO] ============================================================
+2026-06-21 12:31:39,885 [INFO] DONE
+2026-06-21 12:31:39,885 [INFO]   total comments : 0
+2026-06-21 12:31:39,886 [INFO]   Progress : comments/progress.jsonl
+2026-06-21 12:31:39,886 [INFO]   Errors   : comments/errors.log
+2026-06-21 12:42:24,643 [INFO] yt-dlp enumeration : DIRECT (no proxy)
+2026-06-21 12:42:25,788 [INFO] Comment proxy     : Webshare OK — exit IP 45.188.74.185
+2026-06-21 12:42:25,790 [INFO] Loaded 1 channel URL(s)
+2026-06-21 12:42:25,791 [INFO] === Channel: NewMedia_Life ===
+2026-06-21 12:42:25,792 [INFO] Enumerating (direct): https://www.youtube.com/@NewMedia_Life/videos
+2026-06-21 12:42:35,302 [INFO]   Found 952 video IDs
+2026-06-21 12:42:35,302 [INFO]   952 to fetch, 0 done
+2026-06-21 12:42:44,473 [INFO]   [NewMedia_Life] bmnGLhEFwPE: ✓  35 comments
+2026-06-21 12:42:46,214 [INFO]   [NewMedia_Life] KX7UYv2NW7w: ✓  54 comments
+2026-06-21 12:42:50,602 [INFO]   [NewMedia_Life] P8b_E9NIYvY: ✓  18 comments
+2026-06-21 12:42:58,330 [INFO]   [NewMedia_Life] Fk2Xjg59m88: ✓  71 comments
+2026-06-21 12:42:59,054 [INFO]   [NewMedia_Life] 5KdTPy6owzk: ✓  77 comments
+2026-06-21 12:43:06,614 [INFO]   [NewMedia_Life] 5FNepvKxwzE: ✓  33 comments
+2026-06-21 12:43:27,284 [INFO]   [NewMedia_Life] CDHQI_Jpld4: ✓  213 comments
+2026-06-21 12:43:33,395 [INFO]   [NewMedia_Life] 6udvBYK23P4: ✓  30 comments
+2026-06-21 12:43:34,156 [INFO]   [NewMedia_Life] 5m02kElNBVI: ✓  213 comments
+2026-06-21 12:43:38,010 [INFO]   [NewMedia_Life] kHn0msTow4Q: ✓  8 comments
+2026-06-21 12:43:42,005 [INFO]   [NewMedia_Life] U9TA5dMUHKQ: ✓  16 comments
+2026-06-21 12:43:42,505 [INFO]   [NewMedia_Life] PiAKLYJ3_Vo: ✓  7 comments
+2026-06-21 12:43:46,312 [INFO]   [NewMedia_Life] 3JpuKLy4URs: ✓  4 comments
+2026-06-21 12:43:47,708 [INFO]   [NewMedia_Life] bIMieVPYarc: ✓  4 comments
+2026-06-21 12:43:51,242 [INFO]   [NewMedia_Life] KW0Zn-ctY0w: ✓  13 comments
+2026-06-21 12:43:53,192 [INFO]   [NewMedia_Life] zyCqS6wYq_8: ✓  22 comments
+2026-06-21 12:43:55,134 [INFO]   [NewMedia_Life] n2Y_dLZq6eI: ✓  5 comments
+2026-06-21 12:43:59,364 [INFO]   [NewMedia_Life] -wq20envtAk: ✓  33 comments
+2026-06-21 12:43:59,900 [INFO]   [NewMedia_Life] ZjBmqKU1tMk: ✓  19 comments
+2026-06-21 12:44:03,616 [INFO]   [NewMedia_Life] 5u46aUNJYjI: ✓  3 comments
+2026-06-21 12:44:03,895 [INFO]   [NewMedia_Life] d6pnZraoZUU: ✓  7 comments
+2026-06-21 12:44:07,701 [INFO]   [NewMedia_Life] Rrezu2PcB5U: ✓  17 comments
+2026-06-21 12:44:08,448 [INFO]   [NewMedia_Life] kvVjCMNCFDY: ✓  12 comments
+2026-06-21 12:44:12,489 [INFO]   [NewMedia_Life] rKgq862CTI0: ✓  12 comments
+2026-06-21 12:44:13,116 [INFO]   [NewMedia_Life] 2cX0C0zoz80: ✓  16 comments
+2026-06-21 12:44:18,081 [INFO]   [NewMedia_Life] CbgoQ5HplHY: ✓  35 comments
+2026-06-21 12:44:18,215 [INFO]   [NewMedia_Life] qusZMe-P5cc: ✓  10 comments
+2026-06-21 12:44:23,717 [INFO]   [NewMedia_Life] i0f8Jdw_jGI: ✓  23 comments
+2026-06-21 12:44:25,032 [INFO]   [NewMedia_Life] hm-aiuQ5clE: ✓  26 comments
+2026-06-21 12:44:27,544 [INFO]   [NewMedia_Life] 0LCTExH0Rdw: ✓  7 comments
+2026-06-21 12:44:30,042 [INFO]   [NewMedia_Life] Ra6HiYPlgmw: ✓  19 comments
+2026-06-21 12:44:34,873 [INFO]   [NewMedia_Life] BkJZ08se3Lw: ✓  18 comments
+2026-06-21 12:44:38,113 [INFO]   [NewMedia_Life] 65iz8pwVqUE: ✓  110 comments
+2026-06-21 12:44:39,655 [INFO]   [NewMedia_Life] YD3uRvcujrE: ✓  23 comments
+2026-06-21 12:44:43,079 [INFO]   [NewMedia_Life] zBlSSDKBX-M: ✓  24 comments
+2026-06-21 12:44:44,158 [INFO]   [NewMedia_Life] r5vFjaTq93M: ✓  11 comments
+2026-06-21 12:44:48,129 [INFO]   [NewMedia_Life] 13vYJYJGKUA: ✓  20 comments
+2026-06-21 12:44:49,335 [INFO]   [NewMedia_Life] MGt28_4oTFI: ✓  30 comments
+2026-06-21 12:44:52,962 [INFO]   [NewMedia_Life] 4LpjL2Ll7Us: ✓  11 comments
+2026-06-21 12:44:54,758 [INFO]   [NewMedia_Life] 48bZNMVQSdo: ✓  25 comments
+2026-06-21 12:44:58,334 [INFO]   [NewMedia_Life] ZM9LSZZkVHc: ✓  29 comments
+2026-06-21 12:44:59,782 [INFO]   [NewMedia_Life] dD11X0yX2sI: ✓  9 comments
+2026-06-21 12:45:03,280 [INFO]   [NewMedia_Life] PNi8Ais4Vgg: ✓  9 comments
+2026-06-21 12:45:04,679 [INFO]   [NewMedia_Life] LrNemXC_03g: ✓  14 comments
+2026-06-21 12:45:08,180 [INFO]   [NewMedia_Life] Z0yvrEHROqs: ✓  16 comments
+2026-06-21 12:45:09,319 [INFO]   [NewMedia_Life] 0tk9YvsE1Eg: ✓  12 comments
+2026-06-21 12:45:14,294 [INFO]   [NewMedia_Life] Jsl9mD9Dbp0: ✓  22 comments
+2026-06-21 12:45:14,904 [INFO]   [NewMedia_Life] 3ZKL3MyVhZY: ✓  30 comments
+2026-06-21 12:45:18,906 [INFO]   [NewMedia_Life] cXZ-z0Vrx1U: ✓  21 comments
+2026-06-21 12:45:24,533 [INFO]   [NewMedia_Life] fGOTiiqG4RI: ✓  43 comments
+2026-06-21 12:45:26,009 [INFO]   [NewMedia_Life] QdH7wUeBQrM: ✓  36 comments
+2026-06-21 12:45:29,426 [INFO]   [NewMedia_Life] fxGuYygr1_o: ✓  15 comments
+2026-06-21 12:45:31,619 [INFO]   [NewMedia_Life] hKyLRIr4fBw: ✓  39 comments
+2026-06-21 12:45:36,330 [INFO]   [NewMedia_Life] D9V8syndRzs: ✓  21 comments
+2026-06-21 12:45:37,492 [INFO]   [NewMedia_Life] kw1fltgxUL0: ✓  44 comments
+2026-06-21 12:45:40,595 [INFO]   [NewMedia_Life] dhBvNOrI7r4: ✓  18 comments
+2026-06-21 12:45:41,814 [INFO]   [NewMedia_Life] 7J2I-mw0MOw: ✓  12 comments
+2026-06-21 12:45:49,300 [INFO]   [NewMedia_Life] BeU2zxVpG3I: ✓  28 comments
+2026-06-21 12:45:55,675 [INFO]   [NewMedia_Life] XRhAJEsLAxw: ✓  35 comments
+2026-06-21 12:46:05,628 [INFO]   [NewMedia_Life] IIAAWOTFw0w: ✓  231 comments
+2026-06-21 12:46:07,241 [INFO]   [NewMedia_Life] Owk_2Py4PVQ: ✓  45 comments
+2026-06-21 12:46:14,760 [INFO]   [NewMedia_Life] dALtjONecjA: ✓  38 comments
+2026-06-21 12:46:17,836 [INFO]   [NewMedia_Life] Ez2UreH5YpI: ✓  53 comments
+2026-06-21 12:46:19,787 [INFO]   [NewMedia_Life] hNg1U1gmzlM: ✓  6 comments
+2026-06-21 12:46:45,099 [INFO]   [NewMedia_Life] JDCEDPk7Ph8: ✓  205 comments
+2026-06-21 12:49:44,335 [INFO]   [NewMedia_Life] yc7x5jNhXIQ: ✓  2,143 comments
+2026-06-21 12:50:12,721 [INFO]   [NewMedia_Life] nc8oJTETqoI: ✓  2,466 comments
+2026-06-21 12:50:34,604 [INFO]   [NewMedia_Life] ei5wLbwhNuI: ✓  172 comments
+2026-06-21 12:50:41,842 [INFO]   [NewMedia_Life] 8oeUJJWqBDo: ✓  27 comments
+2026-06-21 12:52:37,684 [WARNING]   [NewMedia_Life] NJ-JcDcff8o: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 12:52:51,356 [INFO]   [NewMedia_Life] mqocupK_oc0: ✓  75 comments
+2026-06-21 12:53:18,327 [INFO]   [NewMedia_Life] p5opqmeQvVA: ✓  38 comments
+2026-06-21 12:53:38,263 [INFO]   [NewMedia_Life] z2NGnjXG5uQ: ✓  1,798 comments
+2026-06-21 12:54:09,042 [INFO]   [NewMedia_Life] qiSdh6JLqqw: ✓  236 comments
+2026-06-21 12:58:49,516 [INFO]   [NewMedia_Life] 3AwL93uolIA: ✓  2,564 comments
+2026-06-21 12:59:02,275 [INFO]   [NewMedia_Life] ZmkecBvODzk: ✓  25 comments
+2026-06-21 13:01:21,026 [INFO]   [NewMedia_Life] 0urc3PabvOs: ✓  3,982 comments
+2026-06-21 13:01:28,228 [INFO]   [NewMedia_Life] ArytJ_HZ-1E: ✓  1,427 comments
+2026-06-21 13:01:46,361 [INFO]   [NewMedia_Life] feswilYl9d8: ✓  67 comments
+2026-06-21 13:02:05,833 [INFO]   [NewMedia_Life] nfFirni3KOE: ✓  51 comments
+2026-06-21 13:02:38,120 [WARNING]   [NewMedia_Life] 8rcY34IA-6I: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:02:40,145 [WARNING]   [NewMedia_Life] gv5hDK2YQfA: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:06:32,232 [INFO]   [NewMedia_Life] 8ZL2AAxQmLQ: ✓  2,359 comments
+2026-06-21 13:07:07,023 [INFO]   [NewMedia_Life] 2_T_9VXi-Sw: ✓  222 comments
+2026-06-21 13:08:04,535 [INFO]   [NewMedia_Life] IxsJEffQAZA: ✓  3,214 comments
+2026-06-21 13:08:32,625 [INFO]   [NewMedia_Life] fH9Pdi-jWmQ: ✓  168 comments
+2026-06-21 13:08:43,431 [INFO]   [NewMedia_Life] -FOxzqMww9Y: ✓  74 comments
+2026-06-21 13:10:58,361 [INFO]   [NewMedia_Life] MOEwXtL2DQ4: ✓  3,112 comments
+2026-06-21 13:12:40,890 [WARNING]   [NewMedia_Life] DbuoaakWh7g: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:12:44,709 [DEBUG]   [NewMedia_Life] Lfs9LrpEUf0: 0 comments
+2026-06-21 13:12:52,609 [INFO]   [NewMedia_Life] FJ1ObiOzY4E: ✓  1,321 comments
+2026-06-21 13:15:10,601 [INFO]   [NewMedia_Life] ujdbgnoT0ec: ✓  1,057 comments
+2026-06-21 13:21:00,119 [INFO]   [NewMedia_Life] Ur-JBlBPt6I: ✓  6,779 comments
+2026-06-21 13:21:10,953 [INFO]   [NewMedia_Life] vxeMR8StqbE: ✓  50 comments
+2026-06-21 13:22:36,148 [INFO]   [NewMedia_Life] 9jxZH7dUtPw: ✓  1,319 comments
+2026-06-21 13:22:42,994 [WARNING]   [NewMedia_Life] r7Tzq-MtPpM: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:22:44,880 [INFO]   [NewMedia_Life] 6DE1UombQQ0: ✓  51 comments
+2026-06-21 13:27:01,309 [INFO]   [NewMedia_Life] iW2qF4LrNxI: ✓  3,972 comments
+2026-06-21 13:27:43,925 [INFO]   [NewMedia_Life] eVLFUoNuJ4w: ✓  520 comments
+2026-06-21 13:29:41,055 [INFO]   [NewMedia_Life] r_QH0UD144Y: ✓  1,505 comments
+2026-06-21 13:29:52,614 [INFO]   [NewMedia_Life] _fRv3tF8nNI: ✓  59 comments
+2026-06-21 13:32:17,297 [INFO]   [NewMedia_Life] dEmzsPt47fE: ✓  1,801 comments
+2026-06-21 13:32:43,399 [WARNING]   [NewMedia_Life] jVABFXpkjAI: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:32:47,185 [WARNING]   [NewMedia_Life] Dubq7s-5zLU: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:35:59,398 [INFO]   [NewMedia_Life] 2BggFNfXPGg: ✓  10,887 comments
+2026-06-21 13:36:25,896 [INFO]   [NewMedia_Life] 5T_RZyJMkLc: ✓  294 comments
+2026-06-21 13:37:50,967 [INFO]   [NewMedia_Life] N7X_466JYUo: ✓  4,292 comments
+2026-06-21 13:38:04,039 [INFO]   [NewMedia_Life] lhoLP0ckQ5w: ✓  107 comments
+2026-06-21 13:38:46,817 [WARNING]   [NewMedia_Life] x0sR_Z9euX4: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:39:14,867 [INFO]   [NewMedia_Life] VhB5KTO_rlQ: ✓  398 comments
+2026-06-21 13:42:51,302 [INFO]   [NewMedia_Life] C9CXcm7krk8: ✓  4,339 comments
+2026-06-21 13:42:58,954 [INFO]   [NewMedia_Life] UR_xFUvZ02M: ✓  55 comments
+2026-06-21 13:44:25,673 [WARNING]   [NewMedia_Life] h3mpiTwYKX8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:44:43,220 [INFO]   [NewMedia_Life] 2KF1oVDJc0w: ✓  119 comments
+2026-06-21 13:46:27,567 [INFO]   [NewMedia_Life] SuNL6JNidTM: ✓  5,559 comments
+2026-06-21 13:46:35,807 [INFO]   [NewMedia_Life] MBxOMx_FwnI: ✓  29 comments
+2026-06-21 13:47:47,345 [INFO]   [NewMedia_Life] seJ-lxCCR4w: ✓  2,186 comments
+2026-06-21 13:48:11,697 [INFO]   [NewMedia_Life] RlkARSNqspY: ✓  252 comments
+2026-06-21 13:48:16,502 [INFO]   [NewMedia_Life] KBCMXaWRRE8: ✓  1,187 comments
+2026-06-21 13:50:47,761 [INFO]   [NewMedia_Life] H6Zg2pfOygI: ✓  1,900 comments
+2026-06-21 13:51:13,849 [INFO]   [NewMedia_Life] oEL1Hu5A2aM: ✓  1,734 comments
+2026-06-21 13:51:22,966 [INFO]   [NewMedia_Life] 7oB_Bc72NQE: ✓  46 comments
+2026-06-21 13:51:27,332 [INFO]   [NewMedia_Life] ZIxDGMfCOGo: ✓  16 comments
+2026-06-21 13:51:57,502 [INFO]   [NewMedia_Life] 8NRQFrrizbo: ✓  903 comments
+2026-06-21 13:52:37,646 [INFO]   [NewMedia_Life] uzfYE5A6VE0: ✓  381 comments
+2026-06-21 13:53:36,892 [INFO]   [NewMedia_Life] Oct2VTJ4aZg: ✓  474 comments
+2026-06-21 13:54:28,341 [WARNING]   [NewMedia_Life] vZMIvR89A6U: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 13:55:02,335 [INFO]   [NewMedia_Life] 7hmMdqgkaEs: ✓  2,383 comments
+2026-06-21 13:55:22,431 [INFO]   [NewMedia_Life] uuvU2dncVT0: ✓  181 comments
+2026-06-21 13:57:15,564 [INFO]   [NewMedia_Life] EmbMuwOK92c: ✓  2,484 comments
+2026-06-21 13:57:22,665 [INFO]   [NewMedia_Life] D_ww6ldLMYc: ✓  13 comments
+2026-06-21 13:57:51,555 [INFO]   [NewMedia_Life] UORKnHvx2uA: ✓  1,677 comments
+2026-06-21 13:58:09,107 [INFO]   [NewMedia_Life] AMlYH96qtZQ: ✓  144 comments
+2026-06-21 13:58:50,125 [INFO]   [NewMedia_Life] J6u9yO7CPHw: ✓  426 comments
+2026-06-21 13:59:17,362 [INFO]   [NewMedia_Life] MLgVNKRkhdw: ✓  1,478 comments
+2026-06-21 14:00:02,029 [INFO]   [NewMedia_Life] tf6zUc7aBLM: ✓  890 comments
+2026-06-21 14:00:17,655 [INFO]   [NewMedia_Life] W-tg4eXN0Jc: ✓  183 comments
+2026-06-21 14:01:39,658 [INFO]   [NewMedia_Life] SpBgkNPysvA: ✓  1,989 comments
+2026-06-21 14:02:02,323 [WARNING]   [NewMedia_Life] rczNtWiyqYY: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 14:02:26,405 [INFO]   [NewMedia_Life] WR6zI307dsI: ✓  1,569 comments
+2026-06-21 14:02:34,589 [INFO]   [NewMedia_Life] Nzx_1iVP4dg: ✓  369 comments
+2026-06-21 14:02:47,146 [INFO]   [NewMedia_Life] 5oknaDXHtyM: ✓  234 comments
+2026-06-21 14:02:58,681 [INFO]   [NewMedia_Life] RPBDVXHpVYs: ✓  48 comments
+2026-06-21 14:04:28,936 [WARNING]   [NewMedia_Life] lcmaV4l7VV8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 14:04:57,331 [INFO]   [NewMedia_Life] BKvBT9V5gBM: ✓  299 comments
+2026-06-21 14:05:26,833 [INFO]   [NewMedia_Life] uIcUFR7TTvo: ✓  2,500 comments
+2026-06-21 14:07:17,191 [INFO]   [NewMedia_Life] VP-Uh7RGLtQ: ✓  1,643 comments
+2026-06-21 14:07:47,018 [INFO]   [NewMedia_Life] GQ27JCOfga4: ✓  2,658 comments
+2026-06-21 14:07:52,007 [INFO]   [NewMedia_Life] COkiS4Hv7xI: ✓  416 comments
+2026-06-21 14:07:58,564 [INFO]   [NewMedia_Life] 8pqe0pr-HWU: ✓  29 comments
+2026-06-21 14:09:25,363 [INFO]   [NewMedia_Life] B02tez0hDfk: ✓  1,337 comments
+2026-06-21 14:09:40,546 [WARNING]   [NewMedia_Life] 2RmyXQk5kjg: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 14:09:54,130 [INFO]   [NewMedia_Life] BJg0IK9ET84: ✓  77 comments
+2026-06-21 14:10:01,925 [INFO]   [NewMedia_Life] iLeZ3V8-Lb0: ✓  498 comments
+2026-06-21 14:12:56,342 [INFO]   [NewMedia_Life] hceXwZOplzI: ✓  2,243 comments
+2026-06-21 14:14:08,354 [INFO]   [NewMedia_Life] J3x4YK_NL7Y: ✓  1,202 comments
+2026-06-21 14:14:31,229 [ERROR]   [NewMedia_Life] NZYR5xZPcaU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/n
+2026-06-21 14:18:37,241 [INFO]   [NewMedia_Life] DL0pWnWurdM: ✓  3,108 comments
+2026-06-21 14:18:58,573 [WARNING]   [NewMedia_Life] eJFe0dzLH5s: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 14:19:07,266 [INFO]   [NewMedia_Life] y83Dr9Q-iTQ: ✓  44 comments
+2026-06-21 14:19:18,351 [INFO]   [NewMedia_Life] mn3AauvUcEw: ✓  70 comments
+2026-06-21 14:19:29,752 [INFO]   [NewMedia_Life] SxHjBcB4t7Q: ✓  78 comments
+2026-06-21 14:21:00,893 [ERROR]   [NewMedia_Life] Ftijk1Gbn80: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/n
+2026-06-21 14:21:03,230 [ERROR]   [NewMedia_Life] govGSoUV0k8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=govGS
+2026-06-21 14:22:03,820 [ERROR]   [NewMedia_Life] J9k0g78CCow: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/n
+2026-06-21 14:22:06,273 [ERROR]   [NewMedia_Life] p-OXIH5JG68: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=p-OXI
+2026-06-21 14:22:08,506 [ERROR]   [NewMedia_Life] -G50fBuQceg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=-G50f
+2026-06-21 14:22:10,582 [ERROR]   [NewMedia_Life] RiNp0upos30: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=RiNp0
+2026-06-21 14:22:13,082 [ERROR]   [NewMedia_Life] RCIkBt0ym6I: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=RCIkB
+2026-06-21 14:22:15,159 [ERROR]   [NewMedia_Life] xfAIPyl8TSk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=xfAIP
+2026-06-21 14:22:17,244 [ERROR]   [NewMedia_Life] tqNu1fgA3uU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=tqNu1
+2026-06-21 14:22:19,498 [ERROR]   [NewMedia_Life] D6yGCX2zV-U: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=D6yGC
+2026-06-21 14:22:21,769 [ERROR]   [NewMedia_Life] bcaYsuJLqo0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=bcaYs
+2026-06-21 14:22:23,795 [ERROR]   [NewMedia_Life] vn-Wvosb5UI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=vn-Wv
+2026-06-21 14:22:25,822 [ERROR]   [NewMedia_Life] -RhRY2qiLgU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=-RhRY
+2026-06-21 14:22:27,851 [ERROR]   [NewMedia_Life] aVCeuoRp95E: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=aVCeu
+2026-06-21 14:22:30,000 [ERROR]   [NewMedia_Life] I6fYREgoaJY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=I6fYR
+2026-06-21 14:22:32,081 [ERROR]   [NewMedia_Life] A62JmQCJccQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=A62Jm
+2026-06-21 14:22:34,157 [ERROR]   [NewMedia_Life] xe9jK511gTc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=xe9jK
+2026-06-21 14:22:36,235 [ERROR]   [NewMedia_Life] p0e7ICI_8ZY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=p0e7I
+2026-06-21 14:22:38,264 [ERROR]   [NewMedia_Life] kGHYgCsUBfI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=kGHYg
+2026-06-21 14:22:40,293 [ERROR]   [NewMedia_Life] WLxWvkR_ecQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=WLxWv
+2026-06-21 14:22:42,518 [ERROR]   [NewMedia_Life] LnPXxDwD-Lc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=LnPXx
+2026-06-21 14:22:44,546 [ERROR]   [NewMedia_Life] tJRjOwK1u0s: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=tJRjO
+2026-06-21 14:22:46,905 [ERROR]   [NewMedia_Life] h8smjwhF_BY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=h8smj
+2026-06-21 14:22:48,987 [ERROR]   [NewMedia_Life] mz9Rgmve9xY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=mz9Rg
+2026-06-21 14:22:51,002 [ERROR]   [NewMedia_Life] tRLr1LVKQOA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=tRLr1
+2026-06-21 14:22:53,085 [ERROR]   [NewMedia_Life] hCM4b476p08: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=hCM4b
+2026-06-21 14:22:55,113 [ERROR]   [NewMedia_Life] TocSBb8KCiE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=TocSB
+2026-06-21 14:22:57,194 [ERROR]   [NewMedia_Life] _y_ptIWYBh4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=_y_pt
+2026-06-21 14:22:59,221 [ERROR]   [NewMedia_Life] 9Gk4WnkGHAc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=9Gk4W
+2026-06-21 14:23:01,249 [ERROR]   [NewMedia_Life] m5MSWv9nJfM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=m5MSW
+2026-06-21 14:23:18,439 [ERROR]   [NewMedia_Life] Zc0nskdOfnc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Zc0ns
+2026-06-21 14:23:20,468 [ERROR]   [NewMedia_Life] dUzWEha-plE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=dUzWE
+2026-06-21 14:23:22,550 [ERROR]   [NewMedia_Life] NEeE1sRph3Y: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=NEeE1
+2026-06-21 14:23:24,571 [ERROR]   [NewMedia_Life] GVdMd9yJq8Q: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=GVdMd
+2026-06-21 14:23:26,601 [ERROR]   [NewMedia_Life] gjLdhj7ukn8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=gjLdh
+2026-06-21 14:25:17,175 [ERROR]   [NewMedia_Life] eiX1NsNF8HY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=eiX1N
+2026-06-21 14:25:19,458 [ERROR]   [NewMedia_Life] HG3xQjwenTc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=HG3xQ
+2026-06-21 14:25:21,697 [ERROR]   [NewMedia_Life] n9_D6SH-_6A: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=n9_D6
+2026-06-21 14:25:23,724 [ERROR]   [NewMedia_Life] ndDSORY8mrU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=ndDSO
+2026-06-21 14:25:25,746 [ERROR]   [NewMedia_Life] 6tY2HNB95qc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=6tY2H
+2026-06-21 14:25:28,128 [ERROR]   [NewMedia_Life] gKkEcvC6x4Q: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=gKkEc
+2026-06-21 14:25:41,491 [ERROR]   [NewMedia_Life] U50CepiZUV8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=U50Ce
+2026-06-21 14:25:43,519 [ERROR]   [NewMedia_Life] BI-Z-XwFrTw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=BI-Z-
+2026-06-21 14:25:45,826 [ERROR]   [NewMedia_Life] th0VZq9lNhU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=th0VZ
+2026-06-21 14:25:47,853 [ERROR]   [NewMedia_Life] wgyyeyAv1Zw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=wgyye
+2026-06-21 14:25:49,884 [ERROR]   [NewMedia_Life] iOKV2FCL1Gs: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=iOKV2
+2026-06-21 14:25:52,113 [ERROR]   [NewMedia_Life] 1Crs0T6OfX8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1Crs0
+2026-06-21 14:25:54,143 [ERROR]   [NewMedia_Life] RAUCfqFzTAQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=RAUCf
+2026-06-21 14:25:56,169 [ERROR]   [NewMedia_Life] aQxk6k3sXJ4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=aQxk6
+2026-06-21 14:25:58,198 [ERROR]   [NewMedia_Life] aoSCjfeP23s: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=aoSCj
+2026-06-21 14:26:00,225 [ERROR]   [NewMedia_Life] yl8Ib03nF24: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=yl8Ib
+2026-06-21 14:26:02,253 [ERROR]   [NewMedia_Life] 4XBNa_SSs3M: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=4XBNa
+2026-06-21 14:26:04,283 [ERROR]   [NewMedia_Life] v0FAN5ieUPc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=v0FAN
+2026-06-21 14:27:44,685 [ERROR]   [NewMedia_Life] YpPFr3VOSwM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=YpPFr
+2026-06-21 14:27:47,044 [ERROR]   [NewMedia_Life] veAJjzwVkW4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=veAJj
+2026-06-21 14:27:49,362 [ERROR]   [NewMedia_Life] IbV_TucY3Go: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=IbV_T
+2026-06-21 14:27:51,421 [ERROR]   [NewMedia_Life] IjlfXxtweYo: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=IjlfX
+2026-06-21 14:27:53,448 [ERROR]   [NewMedia_Life] TccHIw9rf_o: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=TccHI
+2026-06-21 14:27:55,844 [ERROR]   [NewMedia_Life] i8u852QgRBY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=i8u85
+2026-06-21 14:27:57,901 [ERROR]   [NewMedia_Life] jmhGEiII-DY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=jmhGE
+2026-06-21 14:28:00,230 [ERROR]   [NewMedia_Life] HgiKr0LmoS0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=HgiKr
+2026-06-21 14:28:21,579 [ERROR]   [NewMedia_Life] eILTKB3ARPA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=eILTK
+2026-06-21 14:28:23,637 [ERROR]   [NewMedia_Life] b6Fl15dIGgg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=b6Fl1
+2026-06-21 14:28:25,719 [ERROR]   [NewMedia_Life] -xEa3bN_JJI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=-xEa3
+2026-06-21 14:28:27,979 [ERROR]   [NewMedia_Life] IZIGyBBk8D8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=IZIGy
+2026-06-21 14:28:30,063 [ERROR]   [NewMedia_Life] 9Ng6XN1e-eQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=9Ng6X
+2026-06-21 14:28:32,145 [ERROR]   [NewMedia_Life] gaDGCjJntSg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=gaDGC
+2026-06-21 14:28:34,173 [ERROR]   [NewMedia_Life] gnOuy2kandU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=gnOuy
+2026-06-21 14:30:16,166 [ERROR]   [NewMedia_Life] 9OtuZtCkKGU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=9OtuZ
+2026-06-21 14:30:18,579 [ERROR]   [NewMedia_Life] YsAvaMhuQcM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=YsAva
+2026-06-21 14:30:49,140 [ERROR]   [NewMedia_Life] UWGSCvAN6fg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=UWGSC
+2026-06-21 14:30:51,223 [ERROR]   [NewMedia_Life] MM4thJfGOF8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=MM4th
+2026-06-21 14:30:53,530 [ERROR]   [NewMedia_Life] GYMwr0-OKyI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=GYMwr
+2026-06-21 14:30:55,611 [ERROR]   [NewMedia_Life] IpK64ZMZIo0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=IpK64
+2026-06-21 14:30:57,868 [ERROR]   [NewMedia_Life] CCiWWTHz-ZY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=CCiWW
+2026-06-21 14:30:59,953 [ERROR]   [NewMedia_Life] Ypgg-niXS_w: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Ypgg-
+2026-06-21 14:31:01,982 [ERROR]   [NewMedia_Life] iy0WnrqomDg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=iy0Wn
+2026-06-21 14:32:35,218 [ERROR]   [NewMedia_Life] _WHmA4pnkoE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=_WHmA
+2026-06-21 14:32:37,426 [ERROR]   [NewMedia_Life] uvxrWGjyeyk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=uvxrW
+2026-06-21 14:32:39,507 [ERROR]   [NewMedia_Life] 3Ov9I8-C6j0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=3Ov9I
+2026-06-21 14:32:41,536 [ERROR]   [NewMedia_Life] I0uSupdH3Og: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=I0uSu
+2026-06-21 14:32:43,818 [ERROR]   [NewMedia_Life] hF0cBgTZyOk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=hF0cB
+2026-06-21 14:32:46,164 [ERROR]   [NewMedia_Life] _bfwpvXG1u0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=_bfwp
+2026-06-21 14:32:48,180 [ERROR]   [NewMedia_Life] qtxquLkeNak: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=qtxqu
+2026-06-21 14:32:50,197 [ERROR]   [NewMedia_Life] EN1wiPJxJ-4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=EN1wi
+2026-06-21 14:32:52,510 [ERROR]   [NewMedia_Life] WQj_OUBaMg0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=WQj_O
+2026-06-21 14:32:54,539 [ERROR]   [NewMedia_Life] Wa3wvVoGaSM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Wa3wv
+2026-06-21 14:32:56,795 [ERROR]   [NewMedia_Life] rUUoZBy8BAM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=rUUoZ
+2026-06-21 14:32:58,812 [ERROR]   [NewMedia_Life] eijrozJ18-0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=eijro
+2026-06-21 14:33:00,841 [ERROR]   [NewMedia_Life] QFoQchfG5yM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=QFoQc
+2026-06-21 14:33:02,851 [ERROR]   [NewMedia_Life] bioASpq1maA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=bioAS
+2026-06-21 14:33:04,868 [ERROR]   [NewMedia_Life] TqIhmmXmZA4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=TqIhm
+2026-06-21 14:33:06,898 [ERROR]   [NewMedia_Life] Rjw1319nwrQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Rjw13
+2026-06-21 14:33:08,915 [ERROR]   [NewMedia_Life] Nb4VpgUUHDI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Nb4Vp
+2026-06-21 14:33:11,206 [ERROR]   [NewMedia_Life] Yw0x-7N10oM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Yw0x-
+2026-06-21 14:33:13,224 [ERROR]   [NewMedia_Life] kObjsgCUaZk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=kObjs
+2026-06-21 14:33:15,251 [ERROR]   [NewMedia_Life] fNsYHtCioNg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=fNsYH
+2026-06-21 14:33:17,309 [ERROR]   [NewMedia_Life] NKQNDgtAQvA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=NKQND
+2026-06-21 14:33:19,751 [ERROR]   [NewMedia_Life] cgDMg0J8q0Y: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=cgDMg
+2026-06-21 14:33:20,624 [ERROR]   [NewMedia_Life] ClTV3tiLMW4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=ClTV3
+2026-06-21 14:33:21,808 [ERROR]   [NewMedia_Life] 9V27W-Jx7i4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=9V27W
+2026-06-21 14:33:22,648 [ERROR]   [NewMedia_Life] JLVInlcmrSg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=JLVIn
+2026-06-21 14:33:23,854 [ERROR]   [NewMedia_Life] xfdf7dBfNdg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=xfdf7
+2026-06-21 14:35:39,852 [ERROR]   [NewMedia_Life] Qtsk1CTIDKY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Qtsk1
+2026-06-21 14:35:42,154 [ERROR]   [NewMedia_Life] CkSZwwcAbSY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=CkSZw
+2026-06-21 14:37:54,821 [ERROR]   [NewMedia_Life] rOqSNYXdIjQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=rOqSN
+2026-06-21 14:37:57,277 [ERROR]   [NewMedia_Life] HdEzeiSR5eU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=HdEze
+2026-06-21 14:37:58,772 [ERROR]   [NewMedia_Life] FiVuG3hu53c: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=FiVuG
+2026-06-21 14:38:01,192 [ERROR]   [NewMedia_Life] omeRuTBszFI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=omeRu
+2026-06-21 14:38:03,335 [ERROR]   [NewMedia_Life] f1Kb5r-UIYQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=f1Kb5
+2026-06-21 14:38:05,766 [ERROR]   [NewMedia_Life] eWf9l_Pnuqo: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=eWf9l
+2026-06-21 14:38:08,209 [ERROR]   [NewMedia_Life] PwAut5_evTw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=PwAut
+2026-06-21 14:38:10,364 [ERROR]   [NewMedia_Life] Xqffy3fTUII: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Xqffy
+2026-06-21 14:39:07,521 [ERROR]   [NewMedia_Life] viI9JNFhIb0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=viI9J
+2026-06-21 14:39:09,548 [ERROR]   [NewMedia_Life] 5gNVZ7uEtGE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=5gNVZ
+2026-06-21 14:39:11,576 [ERROR]   [NewMedia_Life] oXs2b6V89LI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=oXs2b
+2026-06-21 14:39:13,895 [ERROR]   [NewMedia_Life] 9ZTCUyhoknU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=9ZTCU
+2026-06-21 14:40:26,493 [ERROR]   [NewMedia_Life] cmJiRqdyxN4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=cmJiR
+2026-06-21 14:40:28,987 [ERROR]   [NewMedia_Life] WbDh1Ot7Dhg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=WbDh1
+2026-06-21 14:40:31,275 [ERROR]   [NewMedia_Life] sQlFqQY6-eo: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=sQlFq
+2026-06-21 14:40:33,562 [ERROR]   [NewMedia_Life] KAjNiQmtams: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=KAjNi
+2026-06-21 14:41:31,882 [ERROR]   [NewMedia_Life] Fie0JU0hgT4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Fie0J
+2026-06-21 14:41:33,912 [ERROR]   [NewMedia_Life] 8G9KkBdgYY8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=8G9Kk
+2026-06-21 14:43:51,240 [ERROR]   [NewMedia_Life] WyoscGICLzY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Wyosc
+2026-06-21 14:43:53,622 [ERROR]   [NewMedia_Life] s1no4EUwrNU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=s1no4
+2026-06-21 14:43:55,938 [ERROR]   [NewMedia_Life] O5L9dEFQuYs: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=O5L9d
+2026-06-21 14:43:57,967 [ERROR]   [NewMedia_Life] zE6NqNW-Dk8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=zE6Nq
+2026-06-21 14:44:00,365 [ERROR]   [NewMedia_Life] 1ZlMrt5Vpvw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1ZlMr
+2026-06-21 14:44:02,578 [ERROR]   [NewMedia_Life] ntZq0wIo2ds: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=ntZq0
+2026-06-21 14:44:04,968 [ERROR]   [NewMedia_Life] 13nQ7445lcQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=13nQ7
+2026-06-21 14:44:07,028 [ERROR]   [NewMedia_Life] 2SBCTcsafCE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=2SBCT
+2026-06-21 14:44:09,308 [ERROR]   [NewMedia_Life] E2OHHHrtA0Q: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=E2OHH
+2026-06-21 14:44:11,367 [ERROR]   [NewMedia_Life] bZFn6WJzy2g: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=bZFn6
+2026-06-21 14:44:13,395 [ERROR]   [NewMedia_Life] Mcq7DGuEth0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Mcq7D
+2026-06-21 14:45:04,968 [ERROR]   [NewMedia_Life] 73P33vjUIkg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=73P33
+2026-06-21 14:45:07,144 [ERROR]   [NewMedia_Life] 2Kz_cbtkipc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=2Kz_c
+2026-06-21 14:45:09,158 [ERROR]   [NewMedia_Life] xzXHlDSMF0A: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=xzXHl
+2026-06-21 14:45:11,240 [ERROR]   [NewMedia_Life] rYV4cx59rCo: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=rYV4c
+2026-06-21 14:45:13,268 [ERROR]   [NewMedia_Life] dVVhGRxCKQ4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=dVVhG
+2026-06-21 14:46:30,961 [ERROR]   [NewMedia_Life] kg8gFCX-3Z4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=kg8gF
+2026-06-21 14:46:33,305 [ERROR]   [NewMedia_Life] JUUuzUL0S28: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=JUUuz
+2026-06-21 14:46:35,706 [ERROR]   [NewMedia_Life] fy8T9OwVt0Y: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=fy8T9
+2026-06-21 14:46:38,041 [ERROR]   [NewMedia_Life] 59eDdLg-ywY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=59eDd
+2026-06-21 14:46:40,376 [ERROR]   [NewMedia_Life] GYkpqo0AYrg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=GYkpq
+2026-06-21 14:46:42,459 [ERROR]   [NewMedia_Life] GpPrMDgJy2I: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=GpPrM
+2026-06-21 14:46:44,474 [ERROR]   [NewMedia_Life] CLr_v2v3tOY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=CLr_v
+2026-06-21 14:46:46,533 [ERROR]   [NewMedia_Life] PfU4cG3WZF8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=PfU4c
+2026-06-21 14:47:28,488 [ERROR]   [NewMedia_Life] rBx-aSL6GZg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=rBx-a
+2026-06-21 14:47:30,712 [ERROR]   [NewMedia_Life] uA-h1CmScHQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=uA-h1
+2026-06-21 14:49:02,323 [ERROR]   [NewMedia_Life] -g4vvXmE0YI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=-g4vv
+2026-06-21 14:49:47,652 [ERROR]   [NewMedia_Life] 0ZoRPnYRQaM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=0ZoRP
+2026-06-21 14:49:50,030 [ERROR]   [NewMedia_Life] wooNi1lr-7g: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=wooNi
+2026-06-21 14:51:17,779 [ERROR]   [NewMedia_Life] a5MXippLahM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=a5MXi
+2026-06-21 14:51:20,130 [ERROR]   [NewMedia_Life] hsVCF5qehIw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=hsVCF
+2026-06-21 14:51:22,432 [ERROR]   [NewMedia_Life] UFGA-outZ0o: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=UFGA-
+2026-06-21 14:51:24,723 [ERROR]   [NewMedia_Life] lLBCM_VJIdI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=lLBCM
+2026-06-21 14:51:26,751 [ERROR]   [NewMedia_Life] z9OmIeudbY8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=z9OmI
+2026-06-21 14:51:29,062 [ERROR]   [NewMedia_Life] Y2FHMdgNhUc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Y2FHM
+2026-06-21 14:51:31,619 [ERROR]   [NewMedia_Life] 1Rp3OcRs3WA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1Rp3O
+2026-06-21 14:51:33,855 [ERROR]   [NewMedia_Life] eCg6Ybtl2sA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=eCg6Y
+2026-06-21 14:51:35,868 [ERROR]   [NewMedia_Life] YKh2wczyi84: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=YKh2w
+2026-06-21 14:51:37,883 [ERROR]   [NewMedia_Life] 81IXLTQHy6I: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=81IXL
+2026-06-21 14:51:39,966 [ERROR]   [NewMedia_Life] gYw0-v6G3XE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=gYw0-
+2026-06-21 14:51:42,298 [ERROR]   [NewMedia_Life] ttGWcwBoGks: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=ttGWc
+2026-06-21 14:51:44,339 [ERROR]   [NewMedia_Life] 5SprLhOUpp4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=5SprL
+2026-06-21 14:51:46,634 [ERROR]   [NewMedia_Life] sqZqANdRKrk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=sqZqA
+2026-06-21 14:51:49,091 [ERROR]   [NewMedia_Life] m4FV-c101B4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=m4FV-
+2026-06-21 14:51:51,127 [ERROR]   [NewMedia_Life] kFnrcVkpDPk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=kFnrc
+2026-06-21 14:51:53,228 [ERROR]   [NewMedia_Life] 1VbDzaIVuJI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1VbDz
+2026-06-21 14:51:55,623 [ERROR]   [NewMedia_Life] xF4C11nR5_4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=xF4C1
+2026-06-21 14:51:57,681 [ERROR]   [NewMedia_Life] Vq04T0Cwj5Y: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Vq04T
+2026-06-21 14:51:59,741 [ERROR]   [NewMedia_Life] ks7yL0Vl-P8: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=ks7yL
+2026-06-21 14:52:01,801 [ERROR]   [NewMedia_Life] XuumfrdcgDk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Xuumf
+2026-06-21 14:52:03,835 [ERROR]   [NewMedia_Life] 5xAzkYsTHBk: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=5xAzk
+2026-06-21 14:52:06,143 [ERROR]   [NewMedia_Life] 1_oBBYS3rRs: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1_oBB
+2026-06-21 14:52:07,025 [ERROR]   [NewMedia_Life] 4as4CS1x2w0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=4as4C
+2026-06-21 14:52:08,785 [ERROR]   [NewMedia_Life] P25vmjVE73s: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=P25vm
+2026-06-21 14:52:09,084 [ERROR]   [NewMedia_Life] U_cHdU1xv3k: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=U_cHd
+2026-06-21 14:52:10,860 [ERROR]   [NewMedia_Life] WrwEL-1GTyo: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=WrwEL
+2026-06-21 14:52:11,164 [ERROR]   [NewMedia_Life] Vn5-dcFS1QY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Vn5-d
+2026-06-21 14:52:12,938 [ERROR]   [NewMedia_Life] Y0vVcHXvMq4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Y0vVc
+2026-06-21 14:52:13,206 [ERROR]   [NewMedia_Life] yyTnuv1gxfc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=yyTnu
+2026-06-21 14:52:15,289 [ERROR]   [NewMedia_Life] k1t55VUefPI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=k1t55
+2026-06-21 14:52:17,367 [ERROR]   [NewMedia_Life] U62Jkd529LI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=U62Jk
+2026-06-21 14:52:19,406 [ERROR]   [NewMedia_Life] W8syF8UF_Bg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=W8syF
+2026-06-21 14:52:21,448 [ERROR]   [NewMedia_Life] wCRw3hgIZv4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=wCRw3
+2026-06-21 14:52:23,506 [ERROR]   [NewMedia_Life] 72sfOuuRX94: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=72sfO
+2026-06-21 14:54:30,387 [ERROR]   [NewMedia_Life] nq0EOeSyRBs: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=nq0EO
+2026-06-21 14:54:32,742 [ERROR]   [NewMedia_Life] -fyJk0JBG4k: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=-fyJk
+2026-06-21 14:54:34,781 [ERROR]   [NewMedia_Life] PhnCwZKiHpE: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=PhnCw
+2026-06-21 14:54:37,208 [ERROR]   [NewMedia_Life] 1bkakLwbPJ0: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1bkak
+2026-06-21 14:54:38,420 [ERROR]   [NewMedia_Life] L-fOHHnVBtY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=L-fOH
+2026-06-21 14:54:39,287 [ERROR]   [NewMedia_Life] W-ZRzXcw2QM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=W-ZRz
+2026-06-21 14:54:40,479 [ERROR]   [NewMedia_Life] wE6NNKcnaPA: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=wE6NN
+2026-06-21 14:54:41,346 [ERROR]   [NewMedia_Life] BO7mALtbs_k: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=BO7mA
+2026-06-21 14:54:42,563 [ERROR]   [NewMedia_Life] opQIQ5Xhkb4: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=opQIQ
+2026-06-21 14:54:43,730 [ERROR]   [NewMedia_Life] 25o4-Tl-B58: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=25o4-
+2026-06-21 14:54:44,869 [ERROR]   [NewMedia_Life] 4i7c8g5lA5U: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=4i7c8
+2026-06-21 14:54:46,150 [ERROR]   [NewMedia_Life] nvhh95cyRDw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=nvhh9
+2026-06-21 14:54:46,961 [ERROR]   [NewMedia_Life] TQDBlhcl3cI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=TQDBl
+2026-06-21 14:54:48,167 [ERROR]   [NewMedia_Life] idevGAEPgyg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=idevG
+2026-06-21 14:54:49,053 [ERROR]   [NewMedia_Life] KHOAFoxaZaQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=KHOAF
+2026-06-21 14:54:50,184 [ERROR]   [NewMedia_Life] NEy6Oj8dmCc: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=NEy6O
+2026-06-21 14:54:52,244 [ERROR]   [NewMedia_Life] s0t_4MSQEYQ: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=s0t_4
+2026-06-21 14:54:54,302 [ERROR]   [NewMedia_Life] L7fTSxeKwNU: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=L7fTS
+2026-06-21 14:54:56,319 [ERROR]   [NewMedia_Life] OVxLdjK_VUM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=OVxLd
+2026-06-21 14:57:05,965 [ERROR]   [NewMedia_Life] zGQ3zRDylJo: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=zGQ3z
+2026-06-21 14:57:08,206 [ERROR]   [NewMedia_Life] Li9bNk1enQw: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Li9bN
+2026-06-21 14:57:10,234 [ERROR]   [NewMedia_Life] 8TV-fRrxvUY: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=8TV-f
+2026-06-21 14:57:12,544 [ERROR]   [NewMedia_Life] Fi5grDvWgew: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=Fi5gr
+2026-06-21 14:57:13,980 [ERROR]   [NewMedia_Life] RiMga7zpVfI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=RiMga
+2026-06-21 14:57:14,556 [ERROR]   [NewMedia_Life] I8ig8by6NOI: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=I8ig8
+2026-06-21 14:57:16,009 [ERROR]   [NewMedia_Life] mLjbO2Q95GM: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=mLjbO
+2026-06-21 14:57:16,625 [ERROR]   [NewMedia_Life] BD7IRNnQSDg: blocked — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=BD7IR
+2026-06-21 15:00:19,488 [INFO]   [NewMedia_Life] XKW1F1uK72M: ✓  616 comments
+2026-06-21 15:01:29,413 [INFO]   [NewMedia_Life] sIl0OLZVhv4: ✓  1,815 comments
+2026-06-21 15:02:23,344 [INFO]   [NewMedia_Life] rhho9QbxfGM: ✓  1,714 comments
+2026-06-21 15:02:55,058 [INFO]   [NewMedia_Life] cAVBX_SvNgk: ✓  362 comments
+2026-06-21 15:03:16,453 [INFO]   [NewMedia_Life] RcBR7YDFkaA: ✓  1,591 comments
+2026-06-21 15:06:04,300 [INFO]   [NewMedia_Life] xsah0W5f2DY: ✓  2,375 comments
+2026-06-21 15:06:45,954 [INFO]   [NewMedia_Life] cSAv1UHo2IE: ✓  455 comments
+2026-06-21 15:07:03,623 [INFO]   [NewMedia_Life] HtgT8Zmf35c: ✓  4,100 comments
+2026-06-21 15:09:29,484 [INFO]   [NewMedia_Life] mn-br82ENxc: ✓  2,377 comments
+2026-06-21 15:09:33,504 [WARNING]   [NewMedia_Life] y2exxaq0_YI: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:10:27,881 [INFO]   [NewMedia_Life] F7-_TJ4R5YM: ✓  824 comments
+2026-06-21 15:11:08,837 [WARNING]   [NewMedia_Life] 92rP7KbuovQ: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:12:51,754 [INFO]   [NewMedia_Life] Epa9CFnSqso: ✓  2,208 comments
+2026-06-21 15:13:02,451 [INFO]   [NewMedia_Life] kXfToHDYEWs: ✓  1,335 comments
+2026-06-21 15:14:54,138 [INFO]   [NewMedia_Life] AveQVd2ubZI: ✓  1,344 comments
+2026-06-21 15:18:39,876 [INFO]   [NewMedia_Life] -2is0rI_tow: ✓  4,098 comments
+2026-06-21 15:19:35,928 [WARNING]   [NewMedia_Life] QYTj9X39KJc: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:19:42,050 [INFO]   [NewMedia_Life] BJn8bYQkxlg: ✓  58 comments
+2026-06-21 15:21:05,832 [INFO]   [NewMedia_Life] lH7vAzmmB-M: ✓  1,518 comments
+2026-06-21 15:21:09,409 [INFO]   [NewMedia_Life] Y2rFelckA48: ✓  4,763 comments
+2026-06-21 15:21:17,892 [INFO]   [NewMedia_Life] NC_0PbOVdh4: ✓  36 comments
+2026-06-21 15:23:10,960 [INFO]   [NewMedia_Life] 2Di8_QlO9vM: ✓  1,709 comments
+2026-06-21 15:24:46,399 [INFO]   [NewMedia_Life] wsO1Fxxzarc: ✓  1,602 comments
+2026-06-21 15:25:10,846 [INFO]   [NewMedia_Life] xWmIsG72d24: ✓  4,280 comments
+2026-06-21 15:25:22,939 [INFO]   [NewMedia_Life] sL1hez8sq0o: ✓  65 comments
+2026-06-21 15:26:00,215 [INFO]   [NewMedia_Life] wkL2ow-i1lc: ✓  570 comments
+2026-06-21 15:27:09,883 [INFO]   [NewMedia_Life] z5d-xsBYAFo: ✓  1,369 comments
+2026-06-21 15:27:31,726 [INFO]   [NewMedia_Life] jDs55BiCSBk: ✓  2,628 comments
+2026-06-21 15:28:34,182 [INFO]   [NewMedia_Life] X0PufyhG96Q: ✓  872 comments
+2026-06-21 15:28:44,622 [INFO]   [NewMedia_Life] dxr8h7ON03I: ✓  125 comments
+2026-06-21 15:31:02,598 [INFO]   [NewMedia_Life] 0MPLzRDCFAg: ✓  1,725 comments
+2026-06-21 15:31:11,890 [WARNING]   [NewMedia_Life] _Eduwcfv2_I: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:31:20,679 [INFO]   [NewMedia_Life] OpeKEhC9jwI: ✓  43 comments
+2026-06-21 15:31:52,849 [INFO]   [NewMedia_Life] 6MicYXRFX3k: ✓  310 comments
+2026-06-21 15:32:30,067 [INFO]   [NewMedia_Life] D0ha_xUqI24: ✓  1,339 comments
+2026-06-21 15:34:41,172 [INFO]   [NewMedia_Life] tMOfWn_J58E: ✓  2,562 comments
+2026-06-21 15:34:42,328 [INFO]   [NewMedia_Life] Z8het4evBqA: ✓  1,845 comments
+2026-06-21 15:34:46,766 [INFO]   [NewMedia_Life] OrO1YiGam4g: ✓  28 comments
+2026-06-21 15:36:01,593 [INFO]   [NewMedia_Life] czfDCPdu0OQ: ✓  608 comments
+2026-06-21 15:36:30,415 [INFO]   [NewMedia_Life] CFeW61i_MLA: ✓  1,268 comments
+2026-06-21 15:36:35,480 [INFO]   [NewMedia_Life] PXzy3J098ZQ: ✓  29 comments
+2026-06-21 15:37:56,481 [INFO]   [NewMedia_Life] 3gyeOcpdc6g: ✓  1,688 comments
+2026-06-21 15:37:58,561 [INFO]   [NewMedia_Life] 3yT5JkrBDk0: ✓  1,262 comments
+2026-06-21 15:39:06,846 [INFO]   [NewMedia_Life] qMqPJIozZvc: ✓  1,008 comments
+2026-06-21 15:39:14,067 [INFO]   [NewMedia_Life] t8pjQkpa4ac: ✓  41 comments
+2026-06-21 15:39:38,640 [WARNING]   [NewMedia_Life] q8odl57WQYE: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:39:42,202 [INFO]   [NewMedia_Life] GYEOWCW2lFg: ✓  360 comments
+2026-06-21 15:39:47,058 [INFO]   [NewMedia_Life] blLIryFg_H4: ✓  18 comments
+2026-06-21 15:41:14,374 [WARNING]   [NewMedia_Life] cRmbuJRPb9M: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:41:22,284 [INFO]   [NewMedia_Life] W1CMAgVQeP0: ✓  43 comments
+2026-06-21 15:42:01,479 [INFO]   [NewMedia_Life] O7uNdw1E1pU: ✓  1,830 comments
+2026-06-21 15:43:27,450 [INFO]   [NewMedia_Life] WAhsucWq6Z4: ✓  1,136 comments
+2026-06-21 15:43:31,264 [INFO]   [NewMedia_Life] -DOmabqw46o: ✓  15 comments
+2026-06-21 15:47:37,718 [INFO]   [NewMedia_Life] 4EiVHlsQNF4: ✓  2,836 comments
+2026-06-21 15:47:46,188 [INFO]   [NewMedia_Life] Eswa8XOQfS0: ✓  39 comments
+2026-06-21 15:48:25,839 [INFO]   [NewMedia_Life] mTXljm-rOjs: ✓  522 comments
+2026-06-21 15:51:14,846 [WARNING]   [NewMedia_Life] dPlQOrUnl24: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 15:51:19,591 [INFO]   [NewMedia_Life] ys70uhAxYds: ✓  10 comments
+2026-06-21 15:52:09,522 [INFO]   [NewMedia_Life] QKrxZuKQ8J0: ✓  5,724 comments
+2026-06-21 15:52:15,296 [INFO]   [NewMedia_Life] IFk6agSZF8o: ✓  31 comments
+2026-06-21 15:54:24,428 [INFO]   [NewMedia_Life] nkF65qohlmM: ✓  1,585 comments
+2026-06-21 15:54:30,418 [INFO]   [NewMedia_Life] THYvJgllb-o: ✓  2,622 comments
+2026-06-21 15:54:34,513 [INFO]   [NewMedia_Life] FuSRu8SVxxc: ✓  16 comments
+2026-06-21 15:55:45,531 [INFO]   [NewMedia_Life] ikLp-QwVAhc: ✓  1,359 comments
+2026-06-21 15:55:54,128 [INFO]   [NewMedia_Life] KJv2dVBvKIk: ✓  54 comments
+2026-06-21 15:57:32,818 [WARNING]   [NewMedia_Life] 8ZouP1OK53Y: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:01:17,312 [WARNING]   [NewMedia_Life] b69HOs2U4lo: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:01:21,471 [INFO]   [NewMedia_Life] UxvCYEdmJH0: ✓  2,684 comments
+2026-06-21 16:01:27,334 [INFO]   [NewMedia_Life] L4WNJE-fnag: ✓  43 comments
+2026-06-21 16:04:58,435 [INFO]   [NewMedia_Life] sT5glS4w3o4: ✓  3,111 comments
+2026-06-21 16:06:26,245 [INFO]   [NewMedia_Life] 8oPfjx6H-pM: ✓  3,094 comments
+2026-06-21 16:06:30,716 [INFO]   [NewMedia_Life] MsxzJh-9hog: ✓  24 comments
+2026-06-21 16:07:23,152 [INFO]   [NewMedia_Life] WW0raF3wuZU: ✓  2,255 comments
+2026-06-21 16:07:27,442 [INFO]   [NewMedia_Life] I_I_FoWf5Hw: ✓  14 comments
+2026-06-21 16:07:33,417 [INFO]   [NewMedia_Life] kpzZUd7hE4E: ✓  35 comments
+2026-06-21 16:07:35,566 [WARNING]   [NewMedia_Life] _XPKiqJvs6A: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=_XPKiqJvs6A (Caused by SS
+2026-06-21 16:07:42,029 [INFO]   [NewMedia_Life] z0xDbYniHZY: ✓  10 comments
+2026-06-21 16:07:46,360 [INFO]   [NewMedia_Life] R7eq034MPkE: ✓  40 comments
+2026-06-21 16:09:55,544 [INFO]   [NewMedia_Life] BlyIHrIJoT0: ✓  3,246 comments
+2026-06-21 16:10:00,124 [INFO]   [NewMedia_Life] Kmr_d_ea5_Y: ✓  17 comments
+2026-06-21 16:10:06,863 [INFO]   [NewMedia_Life] QACaWYxmzRA: ✓  29 comments
+2026-06-21 16:10:14,400 [INFO]   [NewMedia_Life] MGopiWs7TkU: ✓  35 comments
+2026-06-21 16:10:17,961 [INFO]   [NewMedia_Life] hOlYy7iSiVY: ✓  9 comments
+2026-06-21 16:10:21,721 [INFO]   [NewMedia_Life] 5CPmRT4aGZo: ✓  9 comments
+2026-06-21 16:10:25,297 [INFO]   [NewMedia_Life] v1jZIiW1J0A: ✓  2 comments
+2026-06-21 16:10:28,947 [INFO]   [NewMedia_Life] Oxhlc_T6vdw: ✓  10 comments
+2026-06-21 16:10:33,227 [INFO]   [NewMedia_Life] QUsX47FqMnA: ✓  7 comments
+2026-06-21 16:10:37,904 [INFO]   [NewMedia_Life] 0p0kx_4goLQ: ✓  17 comments
+2026-06-21 16:11:13,729 [WARNING]   [NewMedia_Life] -DVXdsZbcf8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:11:45,296 [INFO]   [NewMedia_Life] UD62ZovDieI: ✓  244 comments
+2026-06-21 16:13:55,479 [INFO]   [NewMedia_Life] F9F3tnX-3eg: ✓  1,417 comments
+2026-06-21 16:17:37,946 [WARNING]   [NewMedia_Life] f0oy-NicIgE: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:17:44,892 [INFO]   [NewMedia_Life] Qh8NfQHk-qU: ✓  18 comments
+2026-06-21 16:18:17,979 [INFO]   [NewMedia_Life] YXcg79ZcQc4: ✓  2,836 comments
+2026-06-21 16:18:22,584 [INFO]   [NewMedia_Life] 3OA8C6RMcWE: ✓  13 comments
+2026-06-21 16:18:33,976 [INFO]   [NewMedia_Life] HVKonxlvjxs: ✓  67 comments
+2026-06-21 16:19:38,386 [INFO]   [NewMedia_Life] RLL_QRAONSw: ✓  1,355 comments
+2026-06-21 16:21:16,185 [WARNING]   [NewMedia_Life] 20ShWgxH_0M: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:21:21,585 [INFO]   [NewMedia_Life] YojIlSjdjto: ✓  1,421 comments
+2026-06-21 16:21:29,048 [INFO]   [NewMedia_Life] pebUpAqB-Us: ✓  68 comments
+2026-06-21 16:21:57,692 [INFO]   [NewMedia_Life] _oB2mr7h3aQ: ✓  422 comments
+2026-06-21 16:23:57,196 [INFO]   [NewMedia_Life] pWKshuxAIBM: ✓  2,320 comments
+2026-06-21 16:24:34,170 [INFO]   [NewMedia_Life] 4gZFVrePKSU: ✓  2,694 comments
+2026-06-21 16:24:42,452 [INFO]   [NewMedia_Life] Y9YkjQMqLYA: ✓  44 comments
+2026-06-21 16:27:40,416 [WARNING]   [NewMedia_Life] r8aaonxBWVM: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:28:00,095 [INFO]   [NewMedia_Life] HoCH_8eDxk8: ✓  3,354 comments
+2026-06-21 16:28:05,450 [INFO]   [NewMedia_Life] YBunbOWNxSQ: ✓  29 comments
+2026-06-21 16:28:26,451 [INFO]   [NewMedia_Life] U48wWAAcVYM: ✓  1,005 comments
+2026-06-21 16:28:36,122 [INFO]   [NewMedia_Life] qefyhN-jk18: ✓  70 comments
+2026-06-21 16:28:46,284 [INFO]   [NewMedia_Life] rLR_EsEUmuY: ✓  84 comments
+2026-06-21 16:28:54,129 [INFO]   [NewMedia_Life] sg2s_DZ09aQ: ✓  50 comments
+2026-06-21 16:29:14,918 [INFO]   [NewMedia_Life] nHwuTarSp3M: ✓  812 comments
+2026-06-21 16:29:22,398 [INFO]   [NewMedia_Life] sAatZIG8ZIo: ✓  75 comments
+2026-06-21 16:29:28,632 [INFO]   [NewMedia_Life] 6MyQOPGE4Cs: ✓  45 comments
+2026-06-21 16:30:34,491 [INFO]   [NewMedia_Life] NaDFa0-3ARc: ✓  1,069 comments
+2026-06-21 16:30:42,589 [INFO]   [NewMedia_Life] pCCLPOVOj9c: ✓  67 comments
+2026-06-21 16:30:53,019 [INFO]   [NewMedia_Life] hUN2AJU-Ty4: ✓  96 comments
+2026-06-21 16:31:00,574 [INFO]   [NewMedia_Life] chOxdHvN3Vg: ✓  58 comments
+2026-06-21 16:31:22,581 [INFO]   [NewMedia_Life] jgQoDkI4SbU: ✓  2,591 comments
+2026-06-21 16:31:29,205 [INFO]   [NewMedia_Life] zTXXTgdz4Sk: ✓  53 comments
+2026-06-21 16:31:41,646 [INFO]   [NewMedia_Life] GK6H0pj6kLc: ✓  86 comments
+2026-06-21 16:31:51,372 [INFO]   [NewMedia_Life] UXbGqkCE7Qw: ✓  93 comments
+2026-06-21 16:31:58,242 [INFO]   [NewMedia_Life] ZLf2zpsLjgU: ✓  36 comments
+2026-06-21 16:32:13,158 [INFO]   [NewMedia_Life] qLMqfRM23rc: ✓  964 comments
+2026-06-21 16:32:23,427 [INFO]   [NewMedia_Life] upJF5V4AD1Y: ✓  76 comments
+2026-06-21 16:32:39,648 [INFO]   [NewMedia_Life] zYaFWNj1bAA: ✓  144 comments
+2026-06-21 16:32:55,390 [INFO]   [NewMedia_Life] nlaHQiqscQ0: ✓  903 comments
+2026-06-21 16:33:07,167 [INFO]   [NewMedia_Life] 4e5TsgnU2u8: ✓  323 comments
+2026-06-21 16:33:07,355 [INFO]   [NewMedia_Life] FwYoc4qK5cg: ✓  84 comments
+2026-06-21 16:33:23,172 [INFO]   [NewMedia_Life] 6_7FrIGFDeM: ✓  180 comments
+2026-06-21 16:33:28,423 [INFO]   [NewMedia_Life] KS91AmZM2w0: ✓  43 comments
+2026-06-21 16:33:37,499 [INFO]   [NewMedia_Life] 2cs2_MTBDPA: ✓  81 comments
+2026-06-21 16:34:30,658 [INFO]   [NewMedia_Life] HQ1bR0TSUXc: ✓  961 comments
+2026-06-21 16:34:42,350 [INFO]   [NewMedia_Life] FTXI4Jwzpss: ✓  106 comments
+2026-06-21 16:34:50,172 [INFO]   [NewMedia_Life] BOnvRSNMbJ0: ✓  1,782 comments
+2026-06-21 16:34:51,350 [INFO]   [NewMedia_Life] e6HorTeLxAc: ✓  72 comments
+2026-06-21 16:34:59,797 [INFO]   [NewMedia_Life] 0Iuol3ctvgw: ✓  55 comments
+2026-06-21 16:35:06,080 [INFO]   [NewMedia_Life] vl6VgTHmx68: ✓  43 comments
+2026-06-21 16:37:12,365 [INFO]   [NewMedia_Life] efigiluZEHA: ✓  2,407 comments
+2026-06-21 16:37:35,391 [INFO]   [NewMedia_Life] UF5EfXlHG1U: ✓  2,151 comments
+2026-06-21 16:37:41,010 [INFO]   [NewMedia_Life] DemzSmdyvL0: ✓  36 comments
+2026-06-21 16:39:30,695 [INFO]   [NewMedia_Life] 51MSQkHRwDg: ✓  1,603 comments
+2026-06-21 16:39:37,510 [INFO]   [NewMedia_Life] WR0l1WD4mIU: ✓  53 comments
+2026-06-21 16:40:02,354 [INFO]   [NewMedia_Life] BAx0LI6NnNg: ✓  2,251 comments
+2026-06-21 16:41:10,783 [INFO]   [NewMedia_Life] H13cW1pYYcY: ✓  1,264 comments
+2026-06-21 16:41:19,015 [WARNING]   [NewMedia_Life] Z6R-V_Dop0o: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:42:24,181 [INFO]   [NewMedia_Life] vUaLZYAiolw: ✓  1,917 comments
+2026-06-21 16:42:42,906 [INFO]   [NewMedia_Life] lwKm9LQogH0: ✓  104 comments
+2026-06-21 16:43:59,046 [INFO]   [NewMedia_Life] FPnQ3HvOisA: ✓  1,022 comments
+2026-06-21 16:45:19,379 [INFO]   [NewMedia_Life] u4UTjxo54_A: ✓  855 comments
+2026-06-21 16:45:46,565 [INFO]   [NewMedia_Life] ftzi1UtX8XY: ✓  172 comments
+2026-06-21 16:46:00,679 [INFO]   [NewMedia_Life] NuE3JIA38ek: ✓  82 comments
+2026-06-21 16:46:13,746 [INFO]   [NewMedia_Life] G28SocqOwOE: ✓  4,534 comments
+2026-06-21 16:46:37,785 [INFO]   [NewMedia_Life] Drxloe-SpfY: ✓  162 comments
+2026-06-21 16:48:16,526 [INFO]   [NewMedia_Life] 8gPApDKh4Z0: ✓  1,537 comments
+2026-06-21 16:50:23,028 [INFO]   [NewMedia_Life] NlHwOzwbYpE: ✓  1,387 comments
+2026-06-21 16:50:33,206 [INFO]   [NewMedia_Life] MajD5kyw1uA: ✓  61 comments
+2026-06-21 16:51:21,526 [WARNING]   [NewMedia_Life] tXZB5AJmrvM: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:51:39,189 [INFO]   [NewMedia_Life] 4qvh2ZlPIWY: ✓  152 comments
+2026-06-21 16:53:45,718 [INFO]   [NewMedia_Life] llrLawTDN38: ✓  2,138 comments
+2026-06-21 16:54:19,588 [INFO]   [NewMedia_Life] YPOiNF0riyA: ✓  3,507 comments
+2026-06-21 16:54:30,031 [INFO]   [NewMedia_Life] cjihLfu332I: ✓  67 comments
+2026-06-21 16:57:14,113 [INFO]   [NewMedia_Life] FHrpR_GrKp0: ✓  2,775 comments
+2026-06-21 16:57:26,914 [INFO]   [NewMedia_Life] dK-TH1xOhOw: ✓  120 comments
+2026-06-21 16:57:44,276 [WARNING]   [NewMedia_Life] wgD_XDbapjs: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 16:58:36,801 [INFO]   [NewMedia_Life] marJgzWJLDo: ✓  1,138 comments
+2026-06-21 16:58:40,762 [INFO]   [NewMedia_Life] tVGfswtT0Uw: ✓  21 comments
+2026-06-21 16:58:48,983 [INFO]   [NewMedia_Life] _w1j0poadDc: ✓  65 comments
+2026-06-21 16:59:22,257 [INFO]   [NewMedia_Life] jMEEA8Kbf24: ✓  1,113 comments
+2026-06-21 16:59:39,425 [INFO]   [NewMedia_Life] uAspBDR7TN0: ✓  261 comments
+2026-06-21 17:01:35,097 [INFO]   [NewMedia_Life] WlO-riE-Nm8: ✓  1,828 comments
+2026-06-21 17:06:55,049 [INFO]   [NewMedia_Life] mxKdDTWwme4: ✓  7,007 comments
+2026-06-21 17:07:44,517 [WARNING]   [NewMedia_Life] 19cSn7JRmO8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:11:13,860 [INFO]   [NewMedia_Life] MSTHbT8ZuCs: ✓  2,418 comments
+2026-06-21 17:13:43,804 [INFO]   [NewMedia_Life] Q4L00UAt5JY: ✓  4,164 comments
+2026-06-21 17:14:58,910 [INFO]   [NewMedia_Life] 6nCL4bHjZvg: ✓  3,351 comments
+2026-06-21 17:16:14,259 [INFO]   [NewMedia_Life] 9_Or_MzGxVw: ✓  1,531 comments
+2026-06-21 17:17:47,256 [WARNING]   [NewMedia_Life] yw4Wb9baNKE: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:18:48,189 [INFO]   [NewMedia_Life] KNH8K3O3TCo: ✓  2,549 comments
+2026-06-21 17:20:41,563 [INFO]   [NewMedia_Life] kHYe-nAQT_M: ✓  2,698 comments
+2026-06-21 17:21:22,695 [WARNING]   [NewMedia_Life] YiKVJkKFpsQ: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:21:53,994 [INFO]   [NewMedia_Life] 7vfsv6Vm7AA: ✓  3,481 comments
+2026-06-21 17:21:58,911 [INFO]   [NewMedia_Life] 8mVGykhzMkU: ✓  20 comments
+2026-06-21 17:23:32,465 [INFO]   [NewMedia_Life] BHoFn3rHPx8: ✓  1,309 comments
+2026-06-21 17:25:23,313 [INFO]   [NewMedia_Life] 4lEDoOcgjPQ: ✓  3,171 comments
+2026-06-21 17:25:31,322 [INFO]   [NewMedia_Life] gn7MQiHXt3M: ✓  29 comments
+2026-06-21 17:27:26,539 [INFO]   [NewMedia_Life] 01t8wL-jSUc: ✓  1,724 comments
+2026-06-21 17:27:49,581 [WARNING]   [NewMedia_Life] CFTccBzBGQw: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:28:18,422 [INFO]   [NewMedia_Life] fWrOwlvPWVQ: ✓  3,777 comments
+2026-06-21 17:30:10,306 [INFO]   [NewMedia_Life] H8JHxNvLmNo: ✓  1,390 comments
+2026-06-21 17:32:22,063 [INFO]   [NewMedia_Life] O8K3XEb62NQ: ✓  4,373 comments
+2026-06-21 17:32:36,458 [INFO]   [NewMedia_Life] MgjfPZDKxEs: ✓  94 comments
+2026-06-21 17:33:01,455 [INFO]   [NewMedia_Life] _6i-5VngAqk: ✓  214 comments
+2026-06-21 17:33:22,563 [INFO]   [NewMedia_Life] tOhUP9LibJc: ✓  2,115 comments
+2026-06-21 17:34:49,658 [INFO]   [NewMedia_Life] AEGUgXmNt0A: ✓  1,053 comments
+2026-06-21 17:37:27,046 [INFO]   [NewMedia_Life] wa1QODdYVog: ✓  1,888 comments
+2026-06-21 17:37:37,649 [INFO]   [NewMedia_Life] DKGz7HNA7Vw: ✓  67 comments
+2026-06-21 17:37:51,946 [WARNING]   [NewMedia_Life] _pXB9Kh9YXA: error — [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2559)
+2026-06-21 17:38:57,264 [INFO]   [NewMedia_Life] 2AgpnT-bN-M: ✓  3,894 comments
+2026-06-21 17:40:17,074 [INFO]   [NewMedia_Life] 26sk88apodA: ✓  2,179 comments
+2026-06-21 17:40:21,118 [INFO]   [NewMedia_Life] y0i_kehJDcw: ✓  12 comments
+2026-06-21 17:40:27,427 [INFO]   [NewMedia_Life] LxwOseTn00c: ✓  37 comments
+2026-06-21 17:41:26,126 [WARNING]   [NewMedia_Life] 1UEjZHfFAJk: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:41:33,830 [INFO]   [NewMedia_Life] KRVSwL5MrwU: ✓  40 comments
+2026-06-21 17:41:50,410 [INFO]   [NewMedia_Life] ZQYSecayazg: ✓  111 comments
+2026-06-21 17:41:55,969 [INFO]   [NewMedia_Life] Fgxqr33A5PE: ✓  17 comments
+2026-06-21 17:42:02,792 [INFO]   [NewMedia_Life] PqthfkYHT0U: ✓  41 comments
+2026-06-21 17:42:42,512 [INFO]   [NewMedia_Life] TM9-d2AF6Fk: ✓  394 comments
+2026-06-21 17:42:46,901 [INFO]   [NewMedia_Life] UxAo3s8ubgc: ✓  18 comments
+2026-06-21 17:44:22,573 [INFO]   [NewMedia_Life] F9DhFq58Kug: ✓  2,949 comments
+2026-06-21 17:44:28,205 [INFO]   [NewMedia_Life] Axn3PkiSUFQ: ✓  37 comments
+2026-06-21 17:45:31,067 [INFO]   [NewMedia_Life] F38bfQUZ780: ✓  689 comments
+2026-06-21 17:45:39,941 [INFO]   [NewMedia_Life] Xkb7Xdos1dM: ✓  2,235 comments
+2026-06-21 17:45:41,498 [INFO]   [NewMedia_Life] PspDvEZsAF4: ✓  59 comments
+2026-06-21 17:45:51,671 [INFO]   [NewMedia_Life] I4WWKmoqAQw: ✓  113 comments
+2026-06-21 17:45:56,168 [INFO]   [NewMedia_Life] EOt5TX5yQlg: ✓  15 comments
+2026-06-21 17:46:02,592 [INFO]   [NewMedia_Life] m-4dSy4qz-8: ✓  32 comments
+2026-06-21 17:46:12,893 [INFO]   [NewMedia_Life] 2ulbE8HsRSY: ✓  86 comments
+2026-06-21 17:46:23,760 [INFO]   [NewMedia_Life] zibtKLlr_00: ✓  134 comments
+2026-06-21 17:47:13,778 [INFO]   [NewMedia_Life] DXAN99A9G6g: ✓  556 comments
+2026-06-21 17:47:17,652 [INFO]   [NewMedia_Life] vG25eT5M0BY: ✓  19 comments
+2026-06-21 17:47:55,372 [WARNING]   [NewMedia_Life] arhrkprz0WQ: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:49:09,680 [INFO]   [NewMedia_Life] YnTEXW7RaYY: ✓  1,561 comments
+2026-06-21 17:49:29,745 [INFO]   [NewMedia_Life] U2COjBCBKJ8: ✓  1,259 comments
+2026-06-21 17:49:44,730 [INFO]   [NewMedia_Life] hd6Y-udChBE: ✓  122 comments
+2026-06-21 17:50:14,261 [INFO]   [NewMedia_Life] mdjF_2ZNHSM: ✓  365 comments
+2026-06-21 17:51:28,730 [WARNING]   [NewMedia_Life] jkhwp2bFaR8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:51:46,516 [INFO]   [NewMedia_Life] subByvOYARA: ✓  2,317 comments
+2026-06-21 17:51:48,971 [INFO]   [NewMedia_Life] XIL-eWlzBZ4: ✓  220 comments
+2026-06-21 17:51:54,227 [INFO]   [NewMedia_Life] fHsY0JzZWac: ✓  32 comments
+2026-06-21 17:52:03,634 [INFO]   [NewMedia_Life] r5zL-uirYas: ✓  66 comments
+2026-06-21 17:53:35,046 [INFO]   [NewMedia_Life] ZIJ2KxmhX2w: ✓  1,126 comments
+2026-06-21 17:53:56,969 [INFO]   [NewMedia_Life] 9h3Ejj3vqHs: ✓  1,673 comments
+2026-06-21 17:56:06,666 [INFO]   [NewMedia_Life] -FpASWtXtWg: ✓  1,821 comments
+2026-06-21 17:57:57,803 [WARNING]   [NewMedia_Life] CByhaGnB9Co: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 17:58:05,177 [INFO]   [NewMedia_Life] xDzICpQ9X8o: ✓  36 comments
+2026-06-21 17:58:07,301 [INFO]   [NewMedia_Life] j02OZRjf2d8: ✓  3,989 comments
+2026-06-21 17:58:12,926 [INFO]   [NewMedia_Life] pLgTvc9bcEo: ✓  32 comments
+2026-06-21 17:58:47,849 [INFO]   [NewMedia_Life] nmvRJ6jCqaQ: ✓  560 comments
+2026-06-21 17:59:35,668 [INFO]   [NewMedia_Life] V2eUJ88_EnU: ✓  603 comments
+2026-06-21 18:01:31,064 [WARNING]   [NewMedia_Life] XKnkiSJGjTk: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:01:39,328 [INFO]   [NewMedia_Life] -y6qIfRyJtc: ✓  46 comments
+2026-06-21 18:02:03,172 [INFO]   [NewMedia_Life] dhdK3o5ysW8: ✓  359 comments
+2026-06-21 18:02:21,156 [INFO]   [NewMedia_Life] 9RYlcU2sXTc: ✓  3,041 comments
+2026-06-21 18:02:32,615 [INFO]   [NewMedia_Life] iId7hpwMz5M: ✓  94 comments
+2026-06-21 18:02:36,990 [INFO]   [NewMedia_Life] a8TaZJUijnA: ✓  15 comments
+2026-06-21 18:03:03,021 [INFO]   [NewMedia_Life] jmEDFN2fyNY: ✓  439 comments
+2026-06-21 18:05:43,440 [INFO]   [NewMedia_Life] W9ufeRcNJ-M: ✓  2,489 comments
+2026-06-21 18:05:49,105 [INFO]   [NewMedia_Life] pouNqWJ7Suw: ✓  24 comments
+2026-06-21 18:06:37,050 [INFO]   [NewMedia_Life] 7wfNg2rinkQ: ✓  591 comments
+2026-06-21 18:08:00,194 [WARNING]   [NewMedia_Life] L-AkMLZCiNs: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:08:09,003 [INFO]   [NewMedia_Life] CcbMWNsprlQ: ✓  45 comments
+2026-06-21 18:09:19,090 [INFO]   [NewMedia_Life] zfBve7gvF2Y: ✓  5,639 comments
+2026-06-21 18:09:20,375 [INFO]   [NewMedia_Life] EqnInvLQ3IE: ✓  967 comments
+2026-06-21 18:09:32,341 [INFO]   [NewMedia_Life] oyATmnojqtw: ✓  76 comments
+2026-06-21 18:09:35,408 [DEBUG]   [NewMedia_Life] 3eepk5a7gAY: 0 comments
+2026-06-21 18:11:31,595 [WARNING]   [NewMedia_Life] UiOo-3iSon8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:11:39,461 [INFO]   [NewMedia_Life] lePrXXOjy-g: ✓  26 comments
+2026-06-21 18:13:50,767 [INFO]   [NewMedia_Life] 2Ny5xYj2BEk: ✓  2,001 comments
+2026-06-21 18:13:54,067 [INFO]   [NewMedia_Life] QpIHg8dhBEE: ✓  3,106 comments
+2026-06-21 18:13:57,044 [INFO]   [NewMedia_Life] vVgDQhl4xFw: ✓  48 comments
+2026-06-21 18:14:40,922 [INFO]   [NewMedia_Life] _JAthn3-U9s: ✓  590 comments
+2026-06-21 18:15:33,332 [INFO]   [NewMedia_Life] owI9ung-T3w: ✓  946 comments
+2026-06-21 18:15:50,039 [INFO]   [NewMedia_Life] HCSa0iwe4FM: ✓  1,856 comments
+2026-06-21 18:15:59,152 [INFO]   [NewMedia_Life] be_JiN6mbNM: ✓  80 comments
+2026-06-21 18:16:02,193 [DEBUG]   [NewMedia_Life] cDNXAh2p18g: 0 comments
+2026-06-21 18:17:50,424 [INFO]   [NewMedia_Life] -krXlF9grZQ: ✓  2,318 comments
+2026-06-21 18:18:02,489 [WARNING]   [NewMedia_Life] OZhcNgsTbi8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:18:47,713 [WARNING]   [NewMedia_Life] vHdFpIYvl88: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:18:58,067 [INFO]   [NewMedia_Life] 8byKnq9u2mw: ✓  94 comments
+2026-06-21 18:20:49,085 [INFO]   [NewMedia_Life] BRCe10NBnOE: ✓  1,838 comments
+2026-06-21 18:25:28,402 [INFO]   [NewMedia_Life] D-gdILNwf7I: ✓  2,969 comments
+2026-06-21 18:26:19,266 [INFO]   [NewMedia_Life] nIUTsuHD4-4: ✓  5,209 comments
+2026-06-21 18:27:17,287 [INFO]   [NewMedia_Life] jRnBwscF9OU: ✓  1,563 comments
+2026-06-21 18:27:31,192 [INFO]   [NewMedia_Life] CKIg-RUN5uw: ✓  65 comments
+2026-06-21 18:27:40,298 [INFO]   [NewMedia_Life] kNiBMUU_VgA: ✓  54 comments
+2026-06-21 18:28:14,105 [INFO]   [NewMedia_Life] 4ja0ZcHwZ9o: ✓  514 comments
+2026-06-21 18:28:19,683 [INFO]   [NewMedia_Life] ICQMrEURLfM: ✓  23 comments
+2026-06-21 18:28:26,537 [INFO]   [NewMedia_Life] fKJhjXaEK7g: ✓  28 comments
+2026-06-21 18:28:32,571 [INFO]   [NewMedia_Life] 6XvlQxpWRC0: ✓  24 comments
+2026-06-21 18:28:41,152 [INFO]   [NewMedia_Life] ZxuhJiuWgF8: ✓  32 comments
+2026-06-21 18:28:48,203 [INFO]   [NewMedia_Life] Rvkp_KTRERI: ✓  36 comments
+2026-06-21 18:28:57,099 [INFO]   [NewMedia_Life] u7Q2K5-7Als: ✓  41 comments
+2026-06-21 18:29:00,665 [INFO]   [NewMedia_Life] q2ZsxhtY-Vw: ✓  1 comments
+2026-06-21 18:29:05,288 [INFO]   [NewMedia_Life] SkUEKEe2Wao: ✓  6 comments
+2026-06-21 18:29:09,854 [INFO]   [NewMedia_Life] 08PEJKz7DoA: ✓  5 comments
+2026-06-21 18:29:14,054 [INFO]   [NewMedia_Life] _JR39Z64j0Y: ✓  3 comments
+2026-06-21 18:29:19,271 [INFO]   [NewMedia_Life] eTNGJCU2UNI: ✓  11 comments
+2026-06-21 18:29:23,696 [INFO]   [NewMedia_Life] DXEQoFp52U4: ✓  2,715 comments
+2026-06-21 18:29:24,029 [INFO]   [NewMedia_Life] QxV73v0sOXk: ✓  3 comments
+2026-06-21 18:29:30,882 [INFO]   [NewMedia_Life] rhaOEuVRyvY: ✓  36 comments
+2026-06-21 18:29:35,003 [INFO]   [NewMedia_Life] HC81AOtPkIk: ✓  11 comments
+2026-06-21 18:29:35,795 [INFO]   [NewMedia_Life] uO5SmdPjUoE: ✓  80 comments
+2026-06-21 18:29:39,319 [INFO]   [NewMedia_Life] v9m-LUYVdf0: ✓  4 comments
+2026-06-21 18:29:40,728 [INFO]   [NewMedia_Life] C0VEqJDsouU: ✓  14 comments
+2026-06-21 18:29:44,215 [INFO]   [NewMedia_Life] ugjjzUATSSM: ✓  3 comments
+2026-06-21 18:29:45,525 [INFO]   [NewMedia_Life] q3eD8spbQX0: ✓  25 comments
+2026-06-21 18:29:49,789 [INFO]   [NewMedia_Life] w6Ol0B3eHWo: ✓  4 comments
+2026-06-21 18:29:50,459 [INFO]   [NewMedia_Life] 9LsclHEs7ew: ✓  23 comments
+2026-06-21 18:29:58,318 [INFO]   [NewMedia_Life] vTj6NYOkDNc: ✓  57 comments
+2026-06-21 18:29:58,534 [INFO]   [NewMedia_Life] j8T7kXvvV8w: ✓  31 comments
+2026-06-21 18:30:01,896 [INFO]   [NewMedia_Life] kECU4t7JfDc: ✓  4 comments
+2026-06-21 18:30:05,746 [INFO]   [NewMedia_Life] fsSlfLY12-k: ✓  24 comments
+2026-06-21 18:30:10,069 [INFO]   [NewMedia_Life] a9QK7cg7cDU: ✓  41 comments
+2026-06-21 18:30:10,577 [INFO]   [NewMedia_Life] e_fgrogVelc: ✓  7 comments
+2026-06-21 18:30:18,648 [INFO]   [NewMedia_Life] 9Fy36sCrSRs: ✓  40 comments
+2026-06-21 18:30:19,261 [INFO]   [NewMedia_Life] 7qMQZ7oCfd8: ✓  55 comments
+2026-06-21 18:30:22,821 [INFO]   [NewMedia_Life] xV7ziAXJvvA: ✓  6 comments
+2026-06-21 18:30:29,859 [INFO]   [NewMedia_Life] amHPG3A9spA: ✓  64 comments
+2026-06-21 18:30:35,283 [INFO]   [NewMedia_Life] 7gyPjjRobzE: ✓  16 comments
+2026-06-21 18:30:36,693 [INFO]   [NewMedia_Life] cVhH3-2Fddo: ✓  82 comments
+2026-06-21 18:30:45,651 [INFO]   [NewMedia_Life] wEIO5_JnFaQ: ✓  45 comments
+2026-06-21 18:30:45,955 [INFO]   [NewMedia_Life] ghCguwGeu7k: ✓  58 comments
+2026-06-21 18:30:49,730 [INFO]   [NewMedia_Life] CxDTSNw76lU: ✓  11 comments
+2026-06-21 18:31:04,490 [INFO]   [NewMedia_Life] ggClC_KJoL8: ✓  101 comments
+2026-06-21 18:31:06,650 [INFO]   [NewMedia_Life] JnJZCX0xHpk: ✓  155 comments
+2026-06-21 18:31:10,865 [INFO]   [NewMedia_Life] YiBzJGYclRo: ✓  22 comments
+2026-06-21 18:31:15,074 [INFO]   [NewMedia_Life] XSnbWowRjlQ: ✓  8 comments
+2026-06-21 18:31:15,772 [INFO]   [NewMedia_Life] iP0uVSZ2oiQ: ✓  44 comments
+2026-06-21 18:31:19,609 [INFO]   [NewMedia_Life] 96o_X8Bj7DI: ✓  6 comments
+2026-06-21 18:31:19,787 [INFO]   [NewMedia_Life] Pf34aXGJXOw: ✓  5 comments
+2026-06-21 18:31:23,798 [INFO]   [NewMedia_Life] 7qtdizeCteM: ✓  8 comments
+2026-06-21 18:31:24,768 [INFO]   [NewMedia_Life] Mp1VRpae69Y: ✓  7 comments
+2026-06-21 18:31:28,335 [INFO]   [NewMedia_Life] l-k2mMrRG5c: ✓  12 comments
+2026-06-21 18:31:28,546 [INFO]   [NewMedia_Life] q8fVNppTC8U: ✓  1 comments
+2026-06-21 18:31:32,587 [INFO]   [NewMedia_Life] 5a1YdXiS4Wo: ✓  1 comments
+2026-06-21 18:31:34,069 [INFO]   [NewMedia_Life] Iw8jTPJGDWc: ✓  14 comments
+2026-06-21 18:31:38,206 [INFO]   [NewMedia_Life] 5ZV9aDXcVt8: ✓  7 comments
+2026-06-21 18:31:38,792 [INFO]   [NewMedia_Life] ZHmnIuwcdGs: ✓  31 comments
+2026-06-21 18:31:41,891 [INFO]   [NewMedia_Life] aSl6S2FovEw: ✓  8 comments
+2026-06-21 18:31:45,432 [INFO]   [NewMedia_Life] ye76zXZkMwg: ✓  1 comments
+2026-06-21 18:31:47,370 [INFO]   [NewMedia_Life] 8hVMriaW0BQ: ✓  35 comments
+2026-06-21 18:31:49,705 [INFO]   [NewMedia_Life] c18eFdE_vMA: ✓  9 comments
+2026-06-21 18:31:52,439 [INFO]   [NewMedia_Life] uQOQp5ajXw0: ✓  28 comments
+2026-06-21 18:31:53,411 [INFO]   [NewMedia_Life] mBjOU79hpgU: ✓  5 comments
+2026-06-21 18:31:56,079 [INFO]   [NewMedia_Life] aCbiSvpz-uk: ✓  3 comments
+2026-06-21 18:31:58,520 [INFO]   [NewMedia_Life] OxU6kpNkoFw: ✓  20 comments
+2026-06-21 18:32:01,329 [INFO]   [NewMedia_Life] ZypyICpvQXY: ✓  21 comments
+2026-06-21 18:32:02,908 [INFO]   [NewMedia_Life] tuJLtlhaAlk: ✓  6 comments
+2026-06-21 18:32:06,718 [INFO]   [NewMedia_Life] GAWYyuV40CA: ✓  12 comments
+2026-06-21 18:32:11,753 [INFO]   [NewMedia_Life] 2ezx5go_5vQ: ✓  44 comments
+2026-06-21 18:32:12,298 [INFO]   [NewMedia_Life] 86VXkYdTBRg: ✓  20 comments
+2026-06-21 18:32:14,423 [WARNING]   [NewMedia_Life] fcDQTRBkm8g: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=fcDQTRBkm8g (Caused by SS
+2026-06-21 18:32:18,180 [INFO]   [NewMedia_Life] SPIbpGTFp1U: ✓  22 comments
+2026-06-21 18:32:23,750 [INFO]   [NewMedia_Life] VpTjWvgbsLo: ✓  53 comments
+2026-06-21 18:32:31,862 [INFO]   [NewMedia_Life] VcppVALWJPo: ✓  74 comments
+2026-06-21 18:32:37,017 [INFO]   [NewMedia_Life] AR3OlSD9oqI: ✓  29 comments
+2026-06-21 18:32:42,525 [INFO]   [NewMedia_Life] OE9JP8YPto4: ✓  37 comments
+2026-06-21 18:32:46,459 [INFO]   [NewMedia_Life] __KEGH82Fd4: ✓  12 comments
+2026-06-21 18:32:50,395 [INFO]   [NewMedia_Life] gsc498LmyKk: ✓  8 comments
+2026-06-21 18:32:55,900 [INFO]   [NewMedia_Life] mCPHsWpCzJQ: ✓  31 comments
+2026-06-21 18:33:02,272 [INFO]   [NewMedia_Life] ld1W9ls6vnM: ✓  25 comments
+2026-06-21 18:33:12,060 [INFO]   [NewMedia_Life] RCUZway5UPs: ✓  35 comments
+2026-06-21 18:33:19,087 [INFO]   [NewMedia_Life] RXFFrnvyhOA: ✓  31 comments
+2026-06-21 18:33:30,117 [INFO]   [NewMedia_Life] z4tKERDcZlw: ✓  55 comments
+2026-06-21 18:33:36,748 [INFO]   [NewMedia_Life] qXg_ML_7XEg: ✓  40 comments
+2026-06-21 18:33:44,750 [INFO]   [NewMedia_Life] FAb8Jfl5mvI: ✓  41 comments
+2026-06-21 18:33:52,765 [INFO]   [NewMedia_Life] qfAz3SMC7nY: ✓  27 comments
+2026-06-21 18:34:00,554 [INFO]   [NewMedia_Life] s65kzHz50wQ: ✓  44 comments
+2026-06-21 18:34:08,002 [INFO]   [NewMedia_Life] -gDVNdF3WdQ: ✓  37 comments
+2026-06-21 18:34:18,483 [INFO]   [NewMedia_Life] WeHPMEOdJ80: ✓  58 comments
+2026-06-21 18:34:31,332 [INFO]   [NewMedia_Life] iU4jNwuCiRE: ✓  97 comments
+2026-06-21 18:34:48,598 [INFO]   [NewMedia_Life] zJnhM58GkQs: ✓  152 comments
+2026-06-21 18:34:56,293 [INFO]   [NewMedia_Life] oc-2RblT7_c: ✓  38 comments
+2026-06-21 18:35:00,785 [INFO]   [NewMedia_Life] 3nSbJIE9Eno: ✓  13 comments
+2026-06-21 18:35:05,183 [INFO]   [NewMedia_Life] ReYyAyc_hX4: ✓  11 comments
+2026-06-21 18:35:43,510 [INFO]   [NewMedia_Life] QIxn0k_nF0Q: ✓  663 comments
+2026-06-21 18:35:50,790 [INFO]   [NewMedia_Life] OXxzX06SUGI: ✓  53 comments
+2026-06-21 18:36:03,430 [INFO]   [NewMedia_Life] HnMS0J9nBuU: ✓  67 comments
+2026-06-21 18:36:09,095 [INFO]   [NewMedia_Life] kpIdjM7Xrkk: ✓  43 comments
+2026-06-21 18:36:27,737 [INFO]   [NewMedia_Life] SdgDgcbp5UY: ✓  98 comments
+2026-06-21 18:36:43,522 [INFO]   [NewMedia_Life] ztachuixmxk: ✓  102 comments
+2026-06-21 18:36:51,501 [INFO]   [NewMedia_Life] hp4SFztvgTQ: ✓  42 comments
+2026-06-21 18:37:08,575 [INFO]   [NewMedia_Life] PZ5CLiLeXSM: ✓  106 comments
+2026-06-21 18:37:17,653 [INFO]   [NewMedia_Life] m6tb6_v6R9A: ✓  61 comments
+2026-06-21 18:37:25,315 [INFO]   [NewMedia_Life] FZEg4cwjcDA: ✓  47 comments
+2026-06-21 18:37:29,555 [INFO]   [NewMedia_Life] ciewmBUASe4: ✓  16 comments
+2026-06-21 18:37:40,828 [INFO]   [NewMedia_Life] 4SUah3tPBHI: ✓  57 comments
+2026-06-21 18:37:49,959 [INFO]   [NewMedia_Life] X9yTohD9g0A: ✓  67 comments
+2026-06-21 18:37:59,805 [INFO]   [NewMedia_Life] xJ69wOPCZ8E: ✓  46 comments
+2026-06-21 18:38:04,644 [INFO]   [NewMedia_Life] arqFYwpiDQA: ✓  13 comments
+2026-06-21 18:38:26,841 [INFO]   [NewMedia_Life] 5-Yy5XCjkdI: ✓  91 comments
+2026-06-21 18:38:27,125 [INFO]   [NewMedia_Life] moeKh8jCTdc: ✓  4,781 comments
+2026-06-21 18:38:33,815 [INFO]   [NewMedia_Life] TA--vNvpXF8: ✓  55 comments
+2026-06-21 18:38:39,696 [INFO]   [NewMedia_Life] f0HH2ca4m1g: ✓  59 comments
+2026-06-21 18:38:45,278 [INFO]   [NewMedia_Life] S8R0TzZdHeY: ✓  40 comments
+2026-06-21 18:38:53,117 [INFO]   [NewMedia_Life] ULa8omytwzI: ✓  37 comments
+2026-06-21 18:42:16,878 [WARNING]   [NewMedia_Life] 2GWf-doE-Gg: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:42:32,518 [INFO]   [NewMedia_Life] AXrTb_J3d1U: ✓  87 comments
+2026-06-21 18:42:36,916 [INFO]   [NewMedia_Life] GIxJv1YlMWU: ✓  16 comments
+2026-06-21 18:42:58,259 [WARNING]   [NewMedia_Life] uuy4Qs873mE: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:43:21,067 [INFO]   [NewMedia_Life] 9tLKgEry570: ✓  81 comments
+2026-06-21 18:43:26,626 [INFO]   [NewMedia_Life] cr4N27JO0R4: ✓  37 comments
+2026-06-21 18:44:28,710 [INFO]   [NewMedia_Life] o0D338ZgGzA: ✓  1,718 comments
+2026-06-21 18:44:39,324 [INFO]   [NewMedia_Life] uvXT2sispIA: ✓  62 comments
+2026-06-21 18:44:44,177 [INFO]   [NewMedia_Life] JjVeUd1vqSE: ✓  32 comments
+2026-06-21 18:44:52,144 [INFO]   [NewMedia_Life] Xbnx4OmxVL4: ✓  47 comments
+2026-06-21 18:45:59,527 [INFO]   [NewMedia_Life] B6JdDNN0soU: ✓  2,544 comments
+2026-06-21 18:46:08,952 [INFO]   [NewMedia_Life] i8ngF5-k7Fk: ✓  51 comments
+2026-06-21 18:47:23,286 [INFO]   [NewMedia_Life] dbPotaUWC08: ✓  2,227 comments
+2026-06-21 18:47:29,596 [INFO]   [NewMedia_Life] mz5nmgldxpc: ✓  44 comments
+2026-06-21 18:47:33,984 [INFO]   [NewMedia_Life] eq22hlGNxvU: ✓  16 comments
+2026-06-21 18:47:39,402 [INFO]   [NewMedia_Life] WuYFL-Q6-Xs: ✓  23 comments
+2026-06-21 18:47:44,114 [INFO]   [NewMedia_Life] UZju5Qhcldg: ✓  22 comments
+2026-06-21 18:51:04,911 [INFO]   [NewMedia_Life] V_SwWCz5-8E: ✓  3,629 comments
+2026-06-21 18:51:11,097 [INFO]   [NewMedia_Life] 4V1G4vw8WAU: ✓  53 comments
+2026-06-21 18:51:39,804 [WARNING]   [NewMedia_Life] R6Z1a8tkX-U: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:51:47,129 [INFO]   [NewMedia_Life] e1Cp2yqmPTQ: ✓  58 comments
+2026-06-21 18:52:26,564 [INFO]   [NewMedia_Life] ul2BmQM1XA4: ✓  3,626 comments
+2026-06-21 18:52:34,428 [INFO]   [NewMedia_Life] 8vs3laLg_fI: ✓  73 comments
+2026-06-21 18:52:58,800 [WARNING]   [NewMedia_Life] xXvU3Dr554Y: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 18:53:15,390 [INFO]   [NewMedia_Life] HEvdSyZWMeY: ✓  121 comments
+2026-06-21 18:53:20,435 [INFO]   [NewMedia_Life] vROjqrWe20Q: ✓  36 comments
+2026-06-21 18:54:36,578 [INFO]   [NewMedia_Life] YrDrtS4bnhI: ✓  2,282 comments
+2026-06-21 18:57:21,254 [INFO]   [NewMedia_Life] 0gxgHRda7Do: ✓  3,832 comments
+2026-06-21 18:57:33,499 [INFO]   [NewMedia_Life] Ia7WHJJEzEo: ✓  76 comments
+2026-06-21 18:58:22,036 [INFO]   [NewMedia_Life] XMrTrxP6ZnQ: ✓  3,751 comments
+2026-06-21 19:01:41,980 [WARNING]   [NewMedia_Life] gJJDkVFQf8s: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:02:03,397 [INFO]   [NewMedia_Life] c-JbOhaWf6s: ✓  92 comments
+2026-06-21 19:02:13,472 [INFO]   [NewMedia_Life] m1TXgxoz0iw: ✓  54 comments
+2026-06-21 19:02:36,374 [INFO]   [NewMedia_Life] ch7nwiRd7UA: ✓  3,651 comments
+2026-06-21 19:03:02,555 [WARNING]   [NewMedia_Life] lR8SHxBFmC0: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:03:24,315 [INFO]   [NewMedia_Life] LZanf2EqJEs: ✓  130 comments
+2026-06-21 19:04:55,285 [INFO]   [NewMedia_Life] Za9EEd2bWlY: ✓  2,141 comments
+2026-06-21 19:07:35,493 [INFO]   [NewMedia_Life] FXBdC9glLn8: ✓  2,405 comments
+2026-06-21 19:07:45,183 [INFO]   [NewMedia_Life] OS4JK5RJizw: ✓  53 comments
+2026-06-21 19:07:50,431 [INFO]   [NewMedia_Life] W1Sojjlb5uc: ✓  42 comments
+2026-06-21 19:11:44,517 [WARNING]   [NewMedia_Life] MYANNltgLbk: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:13:03,108 [WARNING]   [NewMedia_Life] gPJhjnnBNAs: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:13:22,675 [INFO]   [NewMedia_Life] yl0HsK_-cnM: ✓  107 comments
+2026-06-21 19:13:29,885 [INFO]   [NewMedia_Life] Z-2lOJ-L8C8: ✓  52 comments
+2026-06-21 19:16:21,880 [INFO]   [NewMedia_Life] Y27q4vAvfy4: ✓  2,202 comments
+2026-06-21 19:21:45,319 [WARNING]   [NewMedia_Life] bVnoFtZH5iI: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:22:02,799 [INFO]   [NewMedia_Life] 36pPbOyflqY: ✓  144 comments
+2026-06-21 19:22:10,326 [INFO]   [NewMedia_Life] 7LpC-LWLSSk: ✓  76 comments
+2026-06-21 19:23:05,649 [WARNING]   [NewMedia_Life] gAgan7hxEOA: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:24:49,131 [INFO]   [NewMedia_Life] QhmzdMoi96A: ✓  3,791 comments
+2026-06-21 19:25:04,541 [INFO]   [NewMedia_Life] bgqqXVLtojM: ✓  73 comments
+2026-06-21 19:25:58,759 [INFO]   [NewMedia_Life] kKWy6cO-Je0: ✓  2,526 comments
+2026-06-21 19:30:00,745 [INFO]   [NewMedia_Life] suhaKEbaf1w: ✓  4,011 comments
+2026-06-21 19:30:35,498 [INFO]   [NewMedia_Life] E4Sy3PRHzTk: ✓  296 comments
+2026-06-21 19:30:43,794 [INFO]   [NewMedia_Life] or45hlsoL1g: ✓  60 comments
+2026-06-21 19:31:30,349 [INFO]   [NewMedia_Life] gekPW9EUfvg: ✓  5,969 comments
+2026-06-21 19:31:47,878 [WARNING]   [NewMedia_Life] FRLxFcnnul8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:31:53,246 [INFO]   [NewMedia_Life] WgxRXxCL460: ✓  28 comments
+2026-06-21 19:31:58,943 [INFO]   [NewMedia_Life] 26dOrstiW74: ✓  16 comments
+2026-06-21 19:32:02,555 [INFO]   [NewMedia_Life] JfPKt6PVpF0: ✓  6 comments
+2026-06-21 19:32:06,069 [INFO]   [NewMedia_Life] SmEhvGkAZoY: ✓  11 comments
+2026-06-21 19:32:09,829 [INFO]   [NewMedia_Life] 5AoJHDV-8-Y: ✓  14 comments
+2026-06-21 19:32:17,348 [INFO]   [NewMedia_Life] 9HKwBdwvvKM: ✓  36 comments
+2026-06-21 19:32:36,665 [INFO]   [NewMedia_Life] NUVgee6GMbc: ✓  219 comments
+2026-06-21 19:32:46,992 [INFO]   [NewMedia_Life] IKdkKPNTU78: ✓  70 comments
+2026-06-21 19:33:06,024 [WARNING]   [NewMedia_Life] DrJ6zNZaSLo: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:33:32,607 [INFO]   [NewMedia_Life] sHtfGNV6ljs: ✓  215 comments
+2026-06-21 19:36:45,367 [INFO]   [NewMedia_Life] mEdQhWgVxe0: ✓  3,413 comments
+2026-06-21 19:37:01,474 [INFO]   [NewMedia_Life] _XRzUhWF8ew: ✓  3,527 comments
+2026-06-21 19:37:15,832 [INFO]   [NewMedia_Life] gqanHh-zeFo: ✓  88 comments
+2026-06-21 19:37:33,303 [INFO]   [NewMedia_Life] 7dHXkWTuyJc: ✓  116 comments
+2026-06-21 19:40:29,866 [INFO]   [NewMedia_Life] cR2oCAMFnns: ✓  2,887 comments
+2026-06-21 19:41:48,210 [WARNING]   [NewMedia_Life] PR7R3s8ZrWw: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:42:10,414 [INFO]   [NewMedia_Life] awaoWUPkUCU: ✓  151 comments
+2026-06-21 19:42:57,556 [INFO]   [NewMedia_Life] UmIq5LtBMQs: ✓  5,151 comments
+2026-06-21 19:43:08,497 [WARNING]   [NewMedia_Life] 3IZ36779aQc: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:43:18,525 [INFO]   [NewMedia_Life] JYyuQdXt_J4: ✓  90 comments
+2026-06-21 19:47:00,917 [INFO]   [NewMedia_Life] 2Fe7zm68kD4: ✓  3,847 comments
+2026-06-21 19:49:17,205 [INFO]   [NewMedia_Life] qJXZRjFZnbE: ✓  6,041 comments
+2026-06-21 19:49:34,600 [INFO]   [NewMedia_Life] dkWbDmS9jv0: ✓  120 comments
+2026-06-21 19:49:41,850 [INFO]   [NewMedia_Life] ZAvO6QJX8gI: ✓  2,213 comments
+2026-06-21 19:53:10,895 [WARNING]   [NewMedia_Life] H1hGOo0d1Vo: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 19:53:44,580 [INFO]   [NewMedia_Life] _3sSN1Zrws0: ✓  177 comments
+2026-06-21 19:54:54,135 [INFO]   [NewMedia_Life] OTnL5TpM_Bs: ✓  2,695 comments
+2026-06-21 20:03:11,967 [WARNING]   [NewMedia_Life] u2a6UKacaU4: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:03:14,449 [WARNING]   [NewMedia_Life] zykcNlnztT4: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:03:36,948 [INFO]   [NewMedia_Life] HvSdgZOUhS8: ✓  205 comments
+2026-06-21 20:10:17,850 [INFO]   [NewMedia_Life] -1wq0KL5lvM: ✓  5,171 comments
+2026-06-21 20:10:33,754 [INFO]   [NewMedia_Life] 3B1R8bFyTa8: ✓  93 comments
+2026-06-21 20:13:17,147 [WARNING]   [NewMedia_Life] a8BN5ho9oik: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:14:48,388 [INFO]   [NewMedia_Life] 7r0U5BbBHPs: ✓  3,780 comments
+2026-06-21 20:15:10,811 [INFO]   [NewMedia_Life] 0Y8Z_hy8yMM: ✓  145 comments
+2026-06-21 20:22:52,749 [INFO]   [NewMedia_Life] YN16vJRqCGQ: ✓  5,612 comments
+2026-06-21 20:23:19,622 [WARNING]   [NewMedia_Life] wKi0ETe_zY8: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:23:45,081 [INFO]   [NewMedia_Life] 6k49nxc0lVY: ✓  172 comments
+2026-06-21 20:30:58,533 [INFO]   [NewMedia_Life] cOch7WzE86o: ✓  6,031 comments
+2026-06-21 20:33:15,360 [WARNING]   [NewMedia_Life] PIn-givpaE0: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:33:22,138 [WARNING]   [NewMedia_Life] efGf5qwj4gs: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:39:57,609 [INFO]   [NewMedia_Life] NW5DLCWdsbs: ✓  6,169 comments
+2026-06-21 20:43:19,282 [WARNING]   [NewMedia_Life] QPaI8xVWBjY: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:43:24,704 [WARNING]   [NewMedia_Life] ad8VqzvlJT0: error — ('Connection broken: IncompleteRead(23332 bytes read, 6275 more expected)', IncompleteRead(23332 bytes read, 6275 more e
+2026-06-21 20:53:22,108 [WARNING]   [NewMedia_Life] NNEhETUAPQQ: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:54:50,083 [WARNING]   [NewMedia_Life] tLUqvthSY6s: error — HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /youtubei/v1/next?key=AIzaSyAO_FJ2
+2026-06-21 20:55:36,118 [INFO]   [NewMedia_Life] hXMbckpgqFs: ✓  385 comments
+2026-06-21 20:55:54,599 [INFO]   [NewMedia_Life] rXAKQ_b77EA: ✓  137 comments
+2026-06-21 20:56:10,477 [INFO]   [NewMedia_Life] nQU37yJ2Qw8: ✓  121 comments
+2026-06-21 20:56:16,621 [INFO]   [NewMedia_Life] uSnV4M9MBa4: ✓  27 comments
+2026-06-21 20:56:27,121 [INFO]   [NewMedia_Life] fDtBNkdyuxI: ✓  53 comments
+2026-06-21 20:56:33,901 [INFO]   [NewMedia_Life] ZKux1OEO2nM: ✓  23 comments
+2026-06-21 20:56:37,791 [INFO]   [NewMedia_Life] CpeMzCpeuxw: ✓  5 comments
+2026-06-21 20:56:45,773 [INFO]   [NewMedia_Life] 3EaNT3pYV80: ✓  39 comments
+2026-06-21 20:56:50,995 [INFO]   [NewMedia_Life] r2tq3fhk05M: ✓  12 comments
+2026-06-21 20:56:56,834 [INFO]   [NewMedia_Life] kqPo18D36X0: ✓  25 comments
+2026-06-21 20:57:02,509 [INFO]   [NewMedia_Life] XupbZnxrbkw: ✓  20 comments
+2026-06-21 20:57:07,780 [INFO]   [NewMedia_Life] Um004YJsG4E: ✓  9 comments
+2026-06-21 20:57:13,156 [INFO]   [NewMedia_Life] 9Lj0wc1Jim8: ✓  20 comments
+2026-06-21 20:57:20,406 [INFO]   [NewMedia_Life] CxMQIn-pg3o: ✓  19 comments
+2026-06-21 20:57:27,579 [INFO]   [NewMedia_Life] 4Vh6w9yVCWo: ✓  23 comments
+2026-06-21 20:57:32,977 [INFO]   [NewMedia_Life] G_cf-dPyeqg: ✓  7 comments
+2026-06-21 20:57:38,470 [INFO]   [NewMedia_Life] CvEZVDEYSzQ: ✓  11 comments
+2026-06-21 20:57:42,120 [INFO]   [NewMedia_Life] jGet2d3Tc4E: ✓  4 comments
+2026-06-21 20:57:45,926 [INFO]   [NewMedia_Life] vAnMur3nv7w: ✓  1 comments
+2026-06-21 20:57:49,751 [INFO]   [NewMedia_Life] E6pJ0Tnib8M: ✓  4 comments
+2026-06-21 20:57:54,290 [INFO]   [NewMedia_Life] ybrI_BWgzA8: ✓  8 comments
+2026-06-21 20:57:58,622 [INFO]   [NewMedia_Life] pgywKeA57UI: ✓  6 comments
+2026-06-21 20:58:05,585 [INFO]   [NewMedia_Life] oYvsLb2ZfoU: ✓  29 comments
+2026-06-21 20:58:12,867 [INFO]   [NewMedia_Life] oDjOBg8t1Ec: ✓  19 comments
+2026-06-21 20:58:18,706 [INFO]   [NewMedia_Life] RX3v0G9heXw: ✓  11 comments
+2026-06-21 20:58:23,859 [INFO]   [NewMedia_Life] 9w9Hx3qZaA0: ✓  8 comments
+2026-06-21 20:58:28,195 [INFO]   [NewMedia_Life] w5wzlbwuZwU: ✓  4 comments
+2026-06-21 20:58:32,453 [INFO]   [NewMedia_Life] KLJjQn4ag0c: ✓  13 comments
+2026-06-21 20:58:37,645 [INFO]   [NewMedia_Life] k8eNi9bpzSE: ✓  11 comments
+2026-06-21 20:58:41,887 [INFO]   [NewMedia_Life] kFYhG7pydag: ✓  17 comments
+2026-06-21 20:58:46,141 [INFO]   [NewMedia_Life] kOIc5f2J0cE: ✓  10 comments
+2026-06-21 20:58:49,869 [INFO]   [NewMedia_Life] SjCL6E-YNE0: ✓  3 comments
+2026-06-21 20:58:53,722 [INFO]   [NewMedia_Life] fhG-3aCe2kE: ✓  4 comments
+2026-06-21 20:59:00,251 [INFO]   [NewMedia_Life] QriKjHZvHng: ✓  12 comments
+2026-06-21 20:59:05,194 [INFO]   [NewMedia_Life] T0xPdQfS_Qg: ✓  2 comments
+2026-06-21 20:59:09,104 [INFO]   [NewMedia_Life] ihnpmPYMc1o: ✓  4 comments
+2026-06-21 20:59:13,106 [INFO]   [NewMedia_Life] ZlZZhFn_CGs: ✓  4 comments
+2026-06-21 20:59:17,012 [INFO]   [NewMedia_Life] VEPBl91LcTY: ✓  6 comments
+2026-06-21 20:59:21,463 [INFO]   [NewMedia_Life] aTC82iX2_kA: ✓  10 comments
+2026-06-21 20:59:25,324 [INFO]   [NewMedia_Life] SKhAK2aNxmk: ✓  9 comments
+2026-06-21 20:59:31,409 [INFO]   [NewMedia_Life] 0R6FGG9cMaM: ✓  13 comments
+2026-06-21 20:59:35,399 [INFO]   [NewMedia_Life] jacV2EcWTEM: ✓  6 comments
+2026-06-21 20:59:40,325 [INFO]   [NewMedia_Life] KuJ_eNsG2Tg: ✓  12 comments
+2026-06-21 20:59:49,674 [INFO]   [NewMedia_Life] ZLdyV_BzmZc: ✓  38 comments
+2026-06-21 20:59:53,378 [INFO]   [NewMedia_Life] H8MtPkymaHk: ✓  10 comments
+2026-06-21 20:59:58,057 [INFO]   [NewMedia_Life] C27FLyvk8aI: ✓  14 comments
+2026-06-21 21:00:02,438 [INFO]   [NewMedia_Life] 3rDs8bvEdss: ✓  10 comments
+2026-06-21 21:00:06,932 [INFO]   [NewMedia_Life] 77GCDUBIgpc: ✓  4 comments
+2026-06-21 21:00:10,577 [INFO]   [NewMedia_Life] XQToEcvUqTQ: ✓  10 comments
+2026-06-21 21:00:14,052 [INFO]   [NewMedia_Life] oG2KrSf3IEk: ✓  5 comments
+2026-06-21 21:00:17,842 [INFO]   [NewMedia_Life] nq5StJiNeI0: ✓  1 comments
+2026-06-21 21:00:21,658 [INFO]   [NewMedia_Life] _tfNZki9Xkk: ✓  3 comments
+2026-06-21 21:00:25,589 [INFO]   [NewMedia_Life] XHwkLyY2Mdc: ✓  5 comments
+2026-06-21 21:00:29,810 [INFO]   [NewMedia_Life] K2E9wQERtcU: ✓  7 comments
+2026-06-21 21:00:34,287 [INFO]   [NewMedia_Life] QD6Pz--TyXY: ✓  10 comments
+2026-06-21 21:01:45,371 [WARNING]   [NewMedia_Life] er0FFynvceI: error — [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2559)
+2026-06-21 21:01:51,857 [INFO]   [NewMedia_Life] 0TlLfNxihsE: ✓  10 comments
+2026-06-21 21:01:56,941 [INFO]   [NewMedia_Life] wE2vV0pSkaQ: ✓  8 comments
+2026-06-21 21:02:02,169 [INFO]   [NewMedia_Life] zvpu4luG_QI: ✓  8 comments
+2026-06-21 21:02:06,390 [INFO]   [NewMedia_Life] Ef2KPoAg1Hw: ✓  2 comments
+2026-06-21 21:02:10,271 [INFO]   [NewMedia_Life] DqRO-Q-q_t0: ✓  1 comments
+2026-06-21 21:02:15,169 [INFO]   [NewMedia_Life] P9uKNPhSfbc: ✓  7 comments
+2026-06-21 21:02:19,255 [INFO]   [NewMedia_Life] Eo4LG7ElVV4: ✓  3 comments
+2026-06-21 21:02:23,343 [INFO]   [NewMedia_Life] AnTyuZH04Vs: ✓  2 comments
+2026-06-21 21:02:28,385 [INFO]   [NewMedia_Life] A-0mtJE4mE4: ✓  10 comments
+2026-06-21 21:02:34,296 [INFO]   [NewMedia_Life] zSjeAtgniX0: ✓  11 comments
+2026-06-21 21:02:38,982 [INFO]   [NewMedia_Life] unmNVQFTLmk: ✓  5 comments
+2026-06-21 21:02:43,413 [INFO]   [NewMedia_Life] AeB0iEje480: ✓  6 comments
+2026-06-21 21:02:47,946 [INFO]   [NewMedia_Life] OrV4HcoKGrA: ✓  12 comments
+2026-06-21 21:02:54,509 [INFO]   [NewMedia_Life] J8YGwrHrr0M: ✓  15 comments
+2026-06-21 21:02:58,746 [INFO]   [NewMedia_Life] Xm48lEX6HhA: ✓  4 comments
+2026-06-21 21:03:04,329 [INFO]   [NewMedia_Life] ZZfi4UWAj3Q: ✓  13 comments
+2026-06-21 21:03:10,075 [INFO]   [NewMedia_Life] 3yUxBsiG7S0: ✓  10 comments
+2026-06-21 21:03:14,271 [INFO]   [NewMedia_Life] lGFYnhg05RA: ✓  3 comments
+2026-06-21 21:03:18,678 [INFO]   [NewMedia_Life] XCsDhzJ-nl0: ✓  4 comments
+2026-06-21 21:03:23,138 [INFO]   [NewMedia_Life] P3pRYIvDg50: ✓  7 comments
+2026-06-21 21:03:28,988 [INFO]   [NewMedia_Life] gM8hXGkaBhw: ✓  6 comments
+2026-06-21 21:03:35,920 [INFO]   [NewMedia_Life] PlkrTlJPzVk: ✓  15 comments
+2026-06-21 21:03:40,709 [INFO]   [NewMedia_Life] _8W4DMMtcq0: ✓  14 comments
+2026-06-21 21:03:46,202 [INFO]   [NewMedia_Life] qIFsCrSyslQ: ✓  9 comments
+2026-06-21 21:03:50,935 [INFO]   [NewMedia_Life] uZpeUG52LDA: ✓  7 comments
+2026-06-21 21:03:55,161 [INFO]   [NewMedia_Life] OP40J8VXhGk: ✓  14 comments
+2026-06-21 21:04:00,950 [INFO]   [NewMedia_Life] p9JK6V8YI-g: ✓  20 comments
+2026-06-21 21:04:06,968 [INFO]   [NewMedia_Life] -2V_JgxXWOs: ✓  25 comments
+2026-06-21 21:04:28,960 [INFO]   [NewMedia_Life] YCYv4anbiDU: ✓  135 comments
+2026-06-21 21:11:15,360 [INFO]   [NewMedia_Life] x_fW3gRHp2M: ✓  19,146 comments
+2026-06-21 21:11:15,361 [INFO]   Channel done: 662/952 saved, 215 IP-blocked
+2026-06-21 21:11:15,363 [INFO] ============================================================
+2026-06-21 21:11:15,363 [INFO] DONE
+2026-06-21 21:11:15,363 [INFO]   success       : 662
+2026-06-21 21:11:15,364 [INFO]   no_comments   : 3
+2026-06-21 21:11:15,364 [INFO]   ip_blocked    : 215
+2026-06-21 21:11:15,364 [INFO]   error         : 72
+2026-06-21 21:11:15,365 [INFO]   total comments : 523,629
+2026-06-21 21:11:15,365 [WARNING]   215 IP-blocked — upgrade Webshare to 'Rotating Residential' for comment fetching
+2026-06-21 21:11:15,365 [INFO]   Progress : comments/progress.jsonl
+2026-06-21 21:11:15,366 [INFO]   Errors   : comments/errors.log
